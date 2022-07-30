@@ -125,6 +125,7 @@ _coming soon_
 
 # 👍 Group Members
 
-- 2021：ZhiMing Yang, HongJie Fang
-- 2020: Xin Deng (CaiNiao Network Technology Co., Ltd, HangZhou, China)
-- 2019: JinZe Wu (Southern University of Science and Technology, China & Politecnico di Torino, Italy)
+2021：ZhiMing Yang, HongJie Fang
+- Alumni
+  - 2020: Xin Deng (CaiNiao Network Technology Co., Ltd, HangZhou, China)
+  - 2019: JinZe Wu (Southern University of Science and Technology, China & Politecnico di Torino, Italy)
