@@ -74,7 +74,7 @@ I am an associate professor affiliated with the School of Aeronautics and Astron
 
 [J2] __F. Zhang__, H.L. Trentelman*, J.M.A. Scherpen. Fully distributed robust synchronization of networked Lur'e systems with incremental nonlinearities. Automatica regular paper, 50(10):2515-2526, October 2014.
 
-[J1] S.J. Zhang*, X.B. Cao, __F. Zhang__,__F. Zhang__ L. He. Monocular vision-based iterative pose estimation algorithm from corresponding feature points. Science China Information Sciences, 53(8):1682-1696, August 2010.
+[J1] S.J. Zhang*, X.B. Cao, __F. Zhang__, L. He. Monocular vision-based iterative pose estimation algorithm from corresponding feature points. Science China Information Sciences, 53(8):1682-1696, August 2010.
 
 [C10] H. Arezki, __F. Zhang__, A. Zemouche. A HG/LMI-based observer for a tumor growth model. 20th European Control Conference, to appear, London, UK, July 12-15, 2022.
 
