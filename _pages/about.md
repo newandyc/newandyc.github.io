@@ -25,7 +25,7 @@ My research interest includes control system design with sector-bounded unknown 
 - 2008.9.1 - 2010.7.8, M.E. in Flight Vehicle Design, Harbin Institute of Technology, China.
 - 2004.9.1 - 2008.7.7, B.E. in Automation, Harbin Institute of Technology, China.
 
-# 📝 Publications(selected)
+# 📝 Publications
 [J25] N. Wang, M.L. Lv, G.H. Wen, Y. Wang, F. Zhang. Fixed-time constrained consensus tracking for high-order nonlinear multi-agent networks: A singularity-free protocol design approach. IEEE Transactions on Neural Networks and Learning Systems, under review 2nd round, 2022.
 
 [J24] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Synchronization of Lur'e networks via heterogeneous sector-bounded unknown feedback. IEEE Transactions on Control of Network Systems, under review, 2022.
