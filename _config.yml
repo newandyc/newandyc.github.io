@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fan ZHANG"
   avatar           : "images/me2021.jpg"
-  bio              :
+  bio              : "Sun Yat-sen University"
   location         : "ShenZhen, China"
-  employer         : "Sun Yat-sen University"
+  employer         :
   pubmed           : 
   googlescholar    :
   email            : "zhangfan6@mail.sysu.edu.cn"
