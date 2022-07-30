@@ -120,8 +120,11 @@ _coming soon_
 
 
 # 👍 Group Members
+
 2022.9-: Cheng Liu, JiaBo Liu
+
 2021.9-：ZhiMing Yang, HongJie Fang
+
 - Alumni
   - 2020.9-2022.6: Xin Deng (CaiNiao Network Technology Co., Ltd, HangZhou, China)
   - 2019.9-2022.6: JinZe Wu (Southern University of Science and Technology, China & Politecnico di Torino, Italy)
