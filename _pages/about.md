@@ -85,6 +85,11 @@ __Journal Articles__(_selected_)
 
 ___
 
+__Book Chapters__(_selected_)
+[B1] J.J. Fu, G.H. Wen, Y.J. Xu, A. Zemouche, __F. Zhang__. Resilient cooperative control of input constrained networked cyber-physical systems. Security and Resilience in Cyber-Physical Systems: Detection, Estimation and Control, accepted, 2021.
+
+___
+
 __Conference Proceedings__(_selected_)
 
 [C10] H. Arezki, __F. Zhang__, A. Zemouche. A HG/LMI-based observer for a tumor growth model. 20th European Control Conference, to appear, London, UK, July 12-15, 2022.
