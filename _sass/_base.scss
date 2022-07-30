@@ -12,7 +12,7 @@ body {
   padding: 0;
   padding-bottom: 0em;
   color: $text-color;
-  font-family: $Times-New-Roman;
+  font-family: $global-font-family;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -24,7 +24,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 0.5em;
   line-height: 1.2;
-  font-family: $Times-New-Roman;
+  font-family: $header-font-family;
   font-weight: bold;
 }
 
@@ -132,7 +132,7 @@ a {
 /* code */
 
 tt, code, kbd, samp, pre {
-  font-family: $Times-New-Roman;
+  font-family: $monospace;
 }
 
 pre {
@@ -244,7 +244,7 @@ figure {
 figcaption {
   margin-bottom: 0.5em;
   color: mix(#fff, $text-color, 25%);
-  font-family: $Times-New-Roman;
+  font-family: $caption-font-family;
   font-size: $type-size-6;
 
   a {
