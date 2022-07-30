@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes control system design with sector-bounded unknown onlinearities, nonlinear network coordination, and cooperative pointing control.
+I am an associate professor affiliated with the School of Aeronautics and Astronautics, Sun Yat-sen University, Shenzhen, China. My research interest includes control system design with sector-bounded unknown onlinearities, nonlinear network coordination, and cooperative pointing control.
 
 # 📖 Educations
 - 2012.3.1 - 2015.6.30, Ph.D. in Systems & Control, University of Groningen, the Netherlands. 
