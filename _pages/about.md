@@ -31,7 +31,7 @@ My research interest includes control system design with sector-bounded unknown 
 
 # 📝 Publications
 
-__Journal Articles__
+__Journal Articles__(_selected_)
 
 [J25] N. Wang, M.L. Lv, G.H. Wen, Y. Wang, __F. Zhang__. Fixed-time constrained consensus tracking for high-order nonlinear multi-agent networks: A singularity-free protocol design approach. IEEE Transactions on Neural Networks and Learning Systems, under review 2nd round, 2022.
 
@@ -85,7 +85,7 @@ __Journal Articles__
 
 ___
 
-__Conference Proceedings__
+__Conference Proceedings__(_selected_)
 
 [C10] H. Arezki, __F. Zhang__, A. Zemouche. A HG/LMI-based observer for a tumor growth model. 20th European Control Conference, to appear, London, UK, July 12-15, 2022.
 
