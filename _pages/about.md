@@ -24,10 +24,10 @@ My research interest includes control system design with sector-bounded unknown 
 
 # 📖 Educations
 
-- 2012.3.1 - 2015.6.30, Ph.D. in Systems & Control, University of Groningen, the Netherlands. 
-- 2010.9.1 - 2016.6.5, Ph.D. in Control Theory & Control Engineering, Harbin Institute of Technology, China.
-- 2008.9.1 - 2010.7.8, M.E. in Flight Vehicle Design, Harbin Institute of Technology, China.
-- 2004.9.1 - 2008.7.7, B.E. in Automation, Harbin Institute of Technology, China.
+2012.3.1 - 2015.6.30, Ph.D. in Systems & Control, University of Groningen, the Netherlands. 
+2010.9.1 - 2016.6.5, Ph.D. in Control Theory & Control Engineering, Harbin Institute of Technology, China.
+2008.9.1 - 2010.7.8, M.E. in Flight Vehicle Design, Harbin Institute of Technology, China.
+2004.9.1 - 2008.7.7, B.E. in Automation, Harbin Institute of Technology, China.
 
 
 # 📝 Publications
