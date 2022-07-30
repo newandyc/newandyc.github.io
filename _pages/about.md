@@ -26,4 +26,4 @@ My research interest includes control system design with sector-bounded unknown 
 - *2004.9.1 - 2008.7.7*, B.E. in Automation, Harbin Institute of Technology, China.
 
 # 📝 Publications 
-[J27] N. Wang, M.L. Lv, G.H. Wen, Y. Wang, F. Zhang. Fixed-time constrained consensus tracking for high-order nonlinear multi-agent networks: {A} singularity-free protocol design approach. IEEE Transactions on Neural Networks and Learning Systems, under review 2nd round, 2022.
+[J27] N. Wang, M.L. Lv, G.H. Wen, Y. Wang, F. Zhang. Fixed-time constrained consensus tracking for high-order nonlinear multi-agent networks: A singularity-free protocol design approach. IEEE Transactions on Neural Networks and Learning Systems, under review 2nd round, 2022.
