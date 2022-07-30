@@ -80,6 +80,8 @@ My research interest includes control system design with sector-bounded unknown 
 
 [J1] S.J. Zhang*, X.B. Cao, __F. Zhang__, L. He. Monocular vision-based iterative pose estimation algorithm from corresponding feature points. Science China Information Sciences, 53(8):1682-1696, August 2010.
 
+___
+
 [C10] H. Arezki, __F. Zhang__, A. Zemouche. A HG/LMI-based observer for a tumor growth model. 20th European Control Conference, to appear, London, UK, July 12-15, 2022.
 
 [C9] __F. Zhang__, H.L. Liang, G.H. Wen, A. Zemouche, W.W. Yu. Absolute stabilization of Lur'e systems by periodically intermittent control. 15th IEEE International Conference on Control and Automation invited session, pp. 1102-1107, Edinburgh, Scotland, July 16-19, 2019.
