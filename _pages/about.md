@@ -99,3 +99,9 @@ My research interest includes control system design with sector-bounded unknown 
 [C2] __F. Zhang__, P. Ramazi, M. Cao. Distributed concurrent targeting for linear arrays of point sources. 19th IFAC World Congress, pp. 8323-8328, Cape Town, South Africa, August 24-29, 2014.
 
 [C1] Y.H. Geng, W. Lu, __F. Zhang__. Robust sliding mode control for attitude control of small satellite. 8th IAA Symposium on Small Satellites for Earth Observation, Berlin, Germany, April 2011.
+
+
+# Projects
+
+
+# Notes
