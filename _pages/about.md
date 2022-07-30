@@ -102,6 +102,8 @@ My research interest includes control system design with sector-bounded unknown 
 
 
 # 🎊 Projects
+_coming soon_
 
 
 # 💬 Notes
+_coming soon_
