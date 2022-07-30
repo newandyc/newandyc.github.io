@@ -101,7 +101,7 @@ My research interest includes control system design with sector-bounded unknown 
 [C1] Y.H. Geng, W. Lu, __F. Zhang__. Robust sliding mode control for attitude control of small satellite. 8th IAA Symposium on Small Satellites for Earth Observation, Berlin, Germany, April 2011.
 
 
-# Projects
+# 🎊 Projects
 
 
 # 💬 Notes
