@@ -54,7 +54,7 @@ __Journal Articles__(_selected_)
 
 [J17] N. Wang, Y. Wang, J.H. Park*, M.L. Lv, __F. Zhang__*. Fuzzy adaptive finite-time consensus tracking control of high-order nonlinear multi-agent networks with dead-zone. Nonlinear Dynamics, 106:3363–3378, 2021
 
-[J16] J.Z. Wu, W.H. Pu, __F. Zhang__*, W.W. Yu. Decentralized targeting control of collinear agents. Asian Journal of Control, online, 2021
+[J16] J.Z. Wu, W.H. Pu, __F. Zhang__*, W.W. Yu. Decentralized targeting control of collinear agents. Asian Journal of Control, 24:782–793, 2022
 
 [J15] N. Wang, G.H. Wen*, Y. Wang, __F. Zhang__, A. Zemouche. Fuzzy adaptive cooperative consensus tracking of high-order nonlinear multi-agent networks with guaranteed performances. IEEE Transactions on Cybernetics, online, 2021
 
