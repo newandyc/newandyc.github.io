@@ -54,7 +54,7 @@ __Journal Articles__(_selected_)
 
 [J17] S.J. Zhang*, T.T. Zhang, H.B. Guo, __F. Zhang__. General attitude cooperative control of satellite formation by set stabilization. Acta Astronautica, 191:125-133, February 2022
 
-[J16] N. Wang, Y. Wang, J.H. Park*, M.L. Lv, __F. Zhang__*. Fuzzy adaptive finite-time consensus tracking control of high-order nonlinear multi-agent networks with dead-zone. Nonlinear Dynamics, 106:3363–3378, 2021
+[J16] N. Wang, Y. Wang, J.H. Park*, M.L. Lv, __F. Zhang__. Fuzzy adaptive finite-time consensus tracking control of high-order nonlinear multi-agent networks with dead-zone. Nonlinear Dynamics, 106:3363–3378, 2021
 
 [J15] J.Z. Wu, W.H. Pu, __F. Zhang__*, W.W. Yu. Decentralized targeting control of collinear agents. Asian Journal of Control, 24:782–793, 2022
 
