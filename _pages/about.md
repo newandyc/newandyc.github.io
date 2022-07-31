@@ -58,7 +58,7 @@ __Journal Articles__(_selected_)
 
 [J15] N. Wang, G.H. Wen*, Y. Wang, __F. Zhang__, A. Zemouche. Fuzzy adaptive cooperative consensus tracking of high-order nonlinear multi-agent networks with guaranteed performances. IEEE Transactions on Cybernetics, online, 2021
 
-[J14] __F. Zhang__, G.H. Wen, A. Zemouche, W.W. Yu*, J.H. Park*. Output feedback self-synchronization of directed Lur'e networks via global connectivity. IEEE Transactions on Cybernetics, online, 2021
+[J14] __F. Zhang__, G.H. Wen, A. Zemouche, W.W. Yu*, J.H. Park*. Output feedback self-synchronization of directed Lur'e networks via global connectivity. IEEE Transactions on Cybernetics, 52(7):6490-6503, 2022
 
 [J13] S. Li, W.G. Xia*, __F. Zhang__. Synchronization of continuous-time linear systems with time-varying output couplings. IEEE Transactions on Industrial Informatics, 18(1):143-152, January 2022
 
