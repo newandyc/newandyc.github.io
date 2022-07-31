@@ -12,5 +12,8 @@ main:
   - title: "Projects"
     url: "/#-projects"
     
+  - title: "Courses"
+    url: "/#-courses"
+    
   - title: "Group Members"
     url: "/#-group-members"
