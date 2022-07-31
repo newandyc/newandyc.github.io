@@ -120,6 +120,10 @@ __Conference Proceedings__(_selected_)
 # 🎊 Projects
 _coming soon_
 
+# 📚 Courses
+- MATLAB with Applications
+- Robust and Adaptive Control
+
 
 # 👍 Group Members
 
