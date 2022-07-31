@@ -36,27 +36,27 @@ My current research interest includes control system design with sector-bounded 
 
 __Journal Articles__(_selected_)
 
-[J25] N. Wang, M.L. Lv, G.H. Wen, Y. Wang, __F. Zhang__. Fixed-time constrained consensus tracking for high-order nonlinear multi-agent networks: A singularity-free protocol design approach. IEEE Transactions on Neural Networks and Learning Systems, under review 2nd round, 2022
+[J24] N. Wang, M.L. Lv, G.H. Wen, Y. Wang, __F. Zhang__. Fixed-time constrained consensus tracking for high-order nonlinear multi-agent networks: A singularity-free protocol design approach. IEEE Transactions on Neural Networks and Learning Systems, under review 2nd round, 2022
 
-[J24] __F. Zhang__, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Synchronization of Lur'e networks via heterogeneous sector-bounded unknown feedback. IEEE Transactions on Control of Network Systems, under review, 2022
+[J23] __F. Zhang__, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Synchronization of Lur'e networks via heterogeneous sector-bounded unknown feedback. IEEE Transactions on Control of Network Systems, under review, 2022
 
-[J23] P. Ramazi, __F. Zhang__, M. Cao. Cooperative concurrent targeting for planar arrays of point sources. Automatica, under review, 2022
+[J22] P. Ramazi, __F. Zhang__, M. Cao. Cooperative concurrent targeting for planar arrays of point sources. Automatica, under review, 2022
 
-[J22] J.Z. Wu, S. Yuan, Q.Q. Dang, __F. Zhang__*, W.W. Yu. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, under review 2nd round, 2022
+[J21] J.Z. Wu, S. Yuan, Q.Q. Dang, __F. Zhang__*, W.W. Yu. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, under review 2nd round, 2022
 
-[J21] R.W. Zuo, Y.H. Li, M.L. Lv, Z.C. Liu, __F. Zhang__. Fuzzy adaptive output-feedback constrained trajectory tracking control for HFVs with fixed-time convergence. IEEE Transactions on Fuzzy Systems, online, 2022
+[J20] R.W. Zuo, Y.H. Li, M.L. Lv, Z.C. Liu, __F. Zhang__. Fuzzy adaptive output-feedback constrained trajectory tracking control for HFVs with fixed-time convergence. IEEE Transactions on Fuzzy Systems, online, 2022
 
-[J20] X.L. Wang, H.S. Su*, __F. Zhang__, G.R. Chen. A robust distributed interval observer for LTI systems. IEEE Transactions on Automatic Control full paper, online, 2022
+[J21] N. Wang, Y. Wang, G.H. Wen*, M.L. Lv, __F. Zhang__. Fuzzy adaptive constrained consensus tracking of high-order multi-agent networks: A new event-triggered mechanism. IEEE Transactions on Systems, Man and Cybernetics: Systems, online, 2021
 
-[J19] N. Wang, Y. Wang, G.H. Wen*, M.L. Lv, __F. Zhang__. Fuzzy adaptive constrained consensus tracking of high-order multi-agent networks: A new event-triggered mechanism. IEEE Transactions on Systems, Man and Cybernetics: Systems, online, 2021
+[J19] N. Wang, G.H. Wen*, Y. Wang, __F. Zhang__, A. Zemouche. Fuzzy adaptive cooperative consensus tracking of high-order nonlinear multi-agent networks with guaranteed performances. IEEE Transactions on Cybernetics, online, 2021
 
-[J18] S.J. Zhang*, T.T. Zhang, H.B. Guo, __F. Zhang__. General attitude cooperative control of satellite formation by set stabilization. Acta Astronautica, 191:125-133, February 2022
+[J18] X.L. Wang, H.S. Su*, __F. Zhang__, G.R. Chen. A robust distributed interval observer for LTI systems. IEEE Transactions on Automatic Control full paper, online, 2022
 
-[J17] N. Wang, Y. Wang, J.H. Park*, M.L. Lv, __F. Zhang__*. Fuzzy adaptive finite-time consensus tracking control of high-order nonlinear multi-agent networks with dead-zone. Nonlinear Dynamics, 106:3363–3378, 2021
+[J17] S.J. Zhang*, T.T. Zhang, H.B. Guo, __F. Zhang__. General attitude cooperative control of satellite formation by set stabilization. Acta Astronautica, 191:125-133, February 2022
 
-[J16] J.Z. Wu, W.H. Pu, __F. Zhang__*, W.W. Yu. Decentralized targeting control of collinear agents. Asian Journal of Control, 24:782–793, 2022
+[J16] N. Wang, Y. Wang, J.H. Park*, M.L. Lv, __F. Zhang__*. Fuzzy adaptive finite-time consensus tracking control of high-order nonlinear multi-agent networks with dead-zone. Nonlinear Dynamics, 106:3363–3378, 2021
 
-[J15] N. Wang, G.H. Wen*, Y. Wang, __F. Zhang__, A. Zemouche. Fuzzy adaptive cooperative consensus tracking of high-order nonlinear multi-agent networks with guaranteed performances. IEEE Transactions on Cybernetics, online, 2021
+[J15] J.Z. Wu, W.H. Pu, __F. Zhang__*, W.W. Yu. Decentralized targeting control of collinear agents. Asian Journal of Control, 24:782–793, 2022
 
 [J14] __F. Zhang__, G.H. Wen, A. Zemouche, W.W. Yu*, J.H. Park*. Output feedback self-synchronization of directed Lur'e networks via global connectivity. IEEE Transactions on Cybernetics, 52(7):6490-6503, 2022
 
