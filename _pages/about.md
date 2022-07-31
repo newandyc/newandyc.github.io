@@ -118,7 +118,8 @@ __Conference Proceedings__(_selected_)
 
 
 # 🎊 Projects
-_coming soon_
+- 2020.12-2025.11, Multi-DOF Control of Inertial Sensors for the Gravitational-Wave Detection, SYSU, 2 Million, PI: F. Zhang (the National Key R&D Program of China, Task No. 2020YFC2200801)
+- 2018.1-2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies, SYSU, 250 Thousand, PI: F. Zhang (the National Natural Science Foundation of China, Grant No. 61703099)
 
 # 📚 Courses
 - MATLAB with Applications
