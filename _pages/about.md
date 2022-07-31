@@ -19,7 +19,7 @@ redirect_from:
 
 I am an associate professor affiliated with the School of Aeronautics and Astronautics, Sun Yat-sen University, China. Before joining SYSU, I worked successively in City University of Hong Kong (hosted by Prof. Gang Feng), Southeast University (hosted by Prof. WenWu Yu), China, and Delft University of Technology (hosted by Prof. Tam$\acute{a}$s Keviczky), the Netherlands. 
 
-My current research interest includes control system design with sector-bounded unknown nonlinearities, nonlinear network coordination, and cooperative pointing control of networked autonumous agents.
+My current research interest includes control system design with sector-bounded unknown nonlinearities, nonlinear network coordination, and cooperative pointing control of networked autonomous agents.
 
 ***Postdoc openings are always available largely on networks and control !***
 
