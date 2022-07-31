@@ -38,9 +38,9 @@ __Journal Articles__(_selected_)
 
 [J24] __F. Zhang__, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Synchronization of Lur'e networks via heterogeneous sector-bounded unknown feedback. IEEE Transactions on Control of Network Systems, under review, 2022
 
-[J23] N. Wang, M.L. Lv, G.H. Wen, Y. Wang, __F. Zhang__. Fixed-time constrained consensus tracking for high-order nonlinear multi-agent networks: A singularity-free protocol design approach. IEEE Transactions on Neural Networks and Learning Systems, under review 2nd round, 2022
+[J23] P. Ramazi, __F. Zhang__, M. Cao. Cooperative concurrent targeting for planar arrays of point sources. Automatica, under review, 2022
 
-[J22] P. Ramazi, __F. Zhang__, M. Cao. Cooperative concurrent targeting for planar arrays of point sources. Automatica, under review, 2022
+[J22] N. Wang, M.L. Lv, G.H. Wen, Y. Wang, __F. Zhang__. Fixed-time constrained consensus tracking for high-order nonlinear multi-agent networks: A singularity-free protocol design approach. IEEE Transactions on Neural Networks and Learning Systems, under review 2nd round, 2022
 
 [J21] J.Z. Wu, S. Yuan, Q.Q. Dang, __F. Zhang__*, W.W. Yu. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, under review 2nd round, 2022
 
