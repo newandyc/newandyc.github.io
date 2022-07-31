@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Fan ZHANG"
+title                    : "F. Zhang"
 description              : "Control Researcher"
 repository               : "drfzh/drfzh.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Fan ZHANG 张凡"
+  name             : "Fan Zhang"
   avatar           : "images/me2021.jpg"
   bio              :
   location         : "Sun Yat-sen University" 
