@@ -121,9 +121,9 @@ __Conference Proceedings__(_selected_)
 # 🎊 Projects
 (_selected_)
 
-2020.12-2025.11, Multi-DOF Control of Inertial Sensors for the Gravitational-Wave Detection
+2020.12 - 2025.11, Multi-DOF Control of Inertial Sensors for the Gravitational-Wave Detection
 
-2018.1-2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies
+2018.1 - 2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies
 
 
 # 📚 Courses
@@ -132,10 +132,10 @@ __Conference Proceedings__(_selected_)
 
 
 # 👍 Group Members
-2022.9-2025.6: Cheng Liu, JiaBo Liu
+2022.9 - : Cheng Liu, JiaBo Liu
 
-2021.9-2024.6：ZhiMing Yang, HongJie Fang
+2021.9 - ：ZhiMing Yang, HongJie Fang
 
-2020.9-2022.6: Xin Deng (CaiNiao Network Technology Co., Ltd, HangZhou, China)
+2020.9 - 2022.6: Xin Deng (CaiNiao Network Technology Co., Ltd, HangZhou, China)
 
-2019.9-2022.6: JinZe Wu (Southern University of Science and Technology, China & Politecnico di Torino, Italy)
+2019.9 - 2022.6: JinZe Wu (Southern University of Science and Technology, China & Politecnico di Torino, Italy)
