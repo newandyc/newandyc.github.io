@@ -26,10 +26,13 @@ My current research interest includes control system design subject to sector-bo
 
 # 📖 Educations
 
-- 2012.3.1 - 2015.6.30, Ph.D. in Systems & Control, University of Groningen, the Netherlands
-- 2010.9.1 - 2016.1.5, Ph.D. in Control Theory & Control Engineering, Harbin Institute of Technology, China
-- 2008.9.1 - 2010.7.8, M.E. in Flight Vehicle Design, HIT, China
-- 2004.9.1 - 2008.7.7, B.E. in Automation, HIT, China
+2012.3.1 - 2015.6.30, Ph.D. in Systems & Control, University of Groningen, the Netherlands
+
+2010.9.1 - 2016.1.5, Ph.D. in Control Theory & Control Engineering, Harbin Institute of Technology, China
+
+2008.9.1 - 2010.7.8, M.E. in Flight Vehicle Design, HIT, China
+
+2004.9.1 - 2008.7.7, B.E. in Automation, HIT, China
 
 
 # 📝 Publications
@@ -120,13 +123,16 @@ __Conference Proceedings__(_selected_)
 # 🎊 Projects
 (_selected_)
 
-- 2020.12-2025.11, Multi-DOF Control of Inertial Sensors for the Gravitational-Wave Detection, 2 Million, (the National Key R&D Program of China, Task No. 2020YFC2200801)
-- 2018.1-2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies, 250 Thousand, (the National Natural Science Foundation of China, Grant No. 61703099)
+2020.12-2025.11, Multi-DOF Control of Inertial Sensors for the Gravitational-Wave Detection, 2 Million, (the National Key R&D Program of China, Task No. 2020YFC2200801)
+
+2018.1-2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies, 250 Thousand, (the National Natural Science Foundation of China, Grant No. 61703099)
 
 
 # 📚 Courses
-- Undergraduate Courses: MATLAB with Applications
-- Postgraduate Courses: Robust and Adaptive Control
+
+Undergraduate Courses: MATLAB with Applications
+
+Postgraduate Courses: Robust and Adaptive Control
 
 
 # 👍 Group Members
