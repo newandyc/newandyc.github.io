@@ -127,9 +127,8 @@ __Conference Proceedings__(_selected_)
 
 
 # 📚 Courses
-Undergraduate Courses: MATLAB with Applications
-
-Postgraduate Courses: Robust and Adaptive Control
+- Undergraduate Courses: MATLAB with Applications
+- Postgraduate Courses: Robust and Adaptive Control
 
 
 # 👍 Group Members
