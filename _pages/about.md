@@ -25,7 +25,6 @@ My current research interest includes control system design subject to sector-bo
 
 
 # 📖 Educations
-
 2012.3.1 - 2015.6.30, Ph.D. in Systems & Control, University of Groningen, the Netherlands
 
 2010.9.1 - 2016.1.5, Ph.D. in Control Theory & Control Engineering, Harbin Institute of Technology, China
@@ -36,7 +35,6 @@ My current research interest includes control system design subject to sector-bo
 
 
 # 📝 Publications
-
 __Journal Articles__(_selected_)
 
 [J25] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Synchronization of Lur'e networks via heterogeneous sector-bounded unknown feedback. IEEE Transactions on Control of Network Systems, _under review_, 2022
@@ -129,14 +127,12 @@ __Conference Proceedings__(_selected_)
 
 
 # 📚 Courses
-
 Undergraduate Courses: MATLAB with Applications
 
 Postgraduate Courses: Robust and Adaptive Control
 
 
 # 👍 Group Members
-
 2022.9-2025.6: Cheng Liu, JiaBo Liu
 
 2021.9-2024.6：ZhiMing Yang, HongJie Fang
