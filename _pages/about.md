@@ -52,7 +52,7 @@ __Journal Articles__(_selected_)
 
 [J18] N. Wang, Y. Wang, G.H. Wen*, M.L. Lv, F. Zhang. Fuzzy adaptive constrained consensus tracking of high-order multi-agent networks: A new event-triggered mechanism. IEEE Transactions on Systems, Man and Cybernetics: Systems, online, 2021
 
-[J17] F. Zhang, G.H. Wen, A. Zemouche, W.W. Yu*, J.H. Park*. Output feedback self-synchronization of directed Lur'e networks via global connectivity. IEEE Transactions on Cybernetics, 52(7):6490-6503, 2022
+[J17] F. Zhang, G.H. Wen, A. Zemouche, W.W. Yu*, J.H. Park. Output feedback self-synchronization of directed Lur'e networks via global connectivity. IEEE Transactions on Cybernetics, 52(7):6490-6503, 2022
 
 [J16] S.J. Zhang*, T.T. Zhang, H.B. Guo, F. Zhang. General attitude cooperative control of satellite formation by set stabilization. Acta Astronautica, 191:125-133, February 2022
 
