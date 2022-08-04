@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fan Zhang"
   avatar           : "images/me2021.jpg"
-  bio              :
+  bio              : "zhangfan6@mail.sysu.edu.cn"
   location         : "Sun Yat-sen University" 
   employer         : "ShenZhen, China"
   pubmed           : 
   googlescholar    :
-  email            : "zhangfan6@mail.sysu.edu.cn"
+  email            :
   researchgate     :
   uri              :
   bitbucket        :
