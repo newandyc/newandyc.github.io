@@ -25,13 +25,13 @@ My current research interest includes control system design subject to sector-bo
 
 
 # 📖 Educations
-2012.3.1 - 2015.6.30, Ph.D. in Systems & Control, University of Groningen, the Netherlands
+2012.3 - 2015.6, Ph.D. in Systems & Control, University of Groningen, the Netherlands
 
-2010.9.1 - 2016.1.5, Ph.D. in Control Theory & Control Engineering, Harbin Institute of Technology, China
+2010.9 - 2016.1, Ph.D. in Control Theory & Control Engineering, Harbin Institute of Technology, China
 
-2008.9.1 - 2010.7.8, M.E. in Flight Vehicle Design, HIT, China
+2008.9 - 2010.7, M.E. in Flight Vehicle Design, HIT, China
 
-2004.9.1 - 2008.7.7, B.E. in Automation, HIT, China
+2004.9 - 2008.7, B.E. in Automation, HIT, China
 
 
 # 📝 Publications
