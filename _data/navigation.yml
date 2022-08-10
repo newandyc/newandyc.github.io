@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "AboutMe"
     url: "/#about-me"
 
   - title: "Educations"
@@ -15,5 +15,5 @@ main:
   - title: "Courses"
     url: "/#-courses"
 
-  - title: "Group Members"
+  - title: "GroupMembers"
     url: "/#-group-members"
