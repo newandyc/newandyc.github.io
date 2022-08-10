@@ -37,6 +37,8 @@ My current research interest includes control system design subject to sector-bo
 # 📝 Publications
 __Journal Articles__(_selected_)
 
+[J26] N. Wang, M.L. Lv, B. Chang, G.H. Wen, F. Zhang. Event-based distributed specified-time constrained consensus control for high-order multi-agent networks with unknown control directions. IEEE Transactions on Systems, Man and Cybernetics: Systems, _under review_, 2022
+
 [J25] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Synchronization of Lur'e networks via heterogeneous sector-bounded unknown feedback. IEEE Transactions on Control of Network Systems, _under review_, 2022
 
 [J24] P. Ramazi, F. Zhang, M. Cao. Cooperative concurrent targeting for planar arrays of point sources. Automatica, _under review_, 2022
