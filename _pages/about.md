@@ -140,4 +140,4 @@ __Conference Proceedings__(_selected_)
 
 2020.9 - 2022.6: Xin Deng (CaiNiao Network Technology Co., Ltd, HangZhou, China)
 
-2019.9 - 2022.6: JinZe Wu (Southern University of Science and Technology, China & Politecnico di Torino, Italy)
+2019.9 - 2022.6: JinZe Wu (Southern University of Science and Technology, ShenZhen, China & Politecnico di Torino, Turin, Italy)
