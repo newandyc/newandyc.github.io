@@ -134,7 +134,7 @@ __Conference Proceedings__(_selected_)
 
 
 # 👍 Group Members
-_Please don not hesitate to email me your CV including the transcript !_
+***Please don not hesitate to email me your CV including the transcript !***
 
 2022.9 - : Cheng Liu, JiaBo Liu
 
