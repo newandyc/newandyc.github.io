@@ -124,7 +124,7 @@ __Conference Proceedings__(_selected_)
 (_selected_)
 
 2020.12 - 2025.11, Multi-DOF Control of Inertial Sensors for the Gravitational-Wave Detection
-![图片alt]([图片链接 ](https://cn.bing.com/images/search?view=detailV2&ccid=JLXkUKVy&id=68B4885430FC0027217412727A7BBB56443E33D8&thid=OIP.JLXkUKVy9I7J9DZlML5MnAHaFj&mediaurl=https%3a%2f%2fcdn3.vox-cdn.com%2fthumbor%2fnZunVxVqSf1SBmz4VwWLIF2QpIo%3d%2fcdn0.vox-cdn.com%2fuploads%2fchorus_asset%2ffile%2f6030017%2fLISA-waves.0.jpg&exph=1125&expw=1500&q=Gravitational-Wave+Detection&simid=608015946182369072&FORM=IRPRST&ck=83B4ED679AD5B1F8CFED67FD05D3BF7C&selectedIndex=14)"图片title")
+![这是图片](https://cn.bing.com/images/search?view=detailV2&ccid=JLXkUKVy&id=68B4885430FC0027217412727A7BBB56443E33D8&thid=OIP.JLXkUKVy9I7J9DZlML5MnAHaFj&mediaurl=https%3a%2f%2fcdn3.vox-cdn.com%2fthumbor%2fnZunVxVqSf1SBmz4VwWLIF2QpIo%3d%2fcdn0.vox-cdn.com%2fuploads%2fchorus_asset%2ffile%2f6030017%2fLISA-waves.0.jpg&exph=1125&expw=1500&q=Gravitational-Wave+Detection&simid=608015946182369072&FORM=IRPRST&ck=83B4ED679AD5B1F8CFED67FD05D3BF7C&selectedIndex=14"图片title")
 
 2018.1 - 2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies
 
