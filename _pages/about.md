@@ -123,8 +123,7 @@ __Conference Proceedings__(_selected_)
 # 🎊 Projects
 (_selected_)
 
-2020.12 - 2025.11, Multi-DOF Control of Inertial Sensors for the Gravitational-Wave Detection
-![这是图片](https://github.com/DrFZh/drfzh.github.io/blob/main/_pages/LISA.jpg"图片title")
+2020.12 - 2025.11, Multi-DOF Control of Inertial Sensors for [Gravitational-Wave Detection](https://www.cosmos.esa.int/web/lisa)
 
 2018.1 - 2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies
 
