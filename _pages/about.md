@@ -123,7 +123,7 @@ __Conference Proceedings__(_selected_)
 # 🎊 Projects
 (_selected_)
 
-2020.12 - 2025.11, Multi-DOF Control of Inertial Sensors
+2020.12 - 2025.11, Multi-DOF Control of Electrostatic Levitation Systems
 
 2018.1 - 2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies
 
