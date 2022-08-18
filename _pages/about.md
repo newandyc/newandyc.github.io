@@ -24,7 +24,7 @@ My current research interest includes robust control system design via (incremen
 ***Postdoc openings are always available largely on networks and control !***
 
 
-# 📖 Educations
+# Educations
 2012.3 - 2015.6, Ph.D. in Systems & Control, University of Groningen, the Netherlands
 
 2010.9 - 2016.1, Ph.D. in Control Theory & Control Engineering, Harbin Institute of Technology, China
@@ -34,7 +34,7 @@ My current research interest includes robust control system design via (incremen
 2004.9 - 2008.7, B.E. in Automation, HIT, China
 
 
-# 📝 Publications
+# Publications
 __Journal Articles__(_selected_)
 
 [J26] N. Wang, M.L. Lv, B. Chang, G.H. Wen, F. Zhang. Event-based distributed specified-time constrained consensus control for high-order multi-agent networks with unknown control directions. IEEE Transactions on Systems, Man and Cybernetics: Systems, _under review_, 2022
@@ -120,7 +120,7 @@ __Conference Proceedings__(_selected_)
 [C1] Y.H. Geng, W. Lu, F. Zhang. Robust sliding mode control for attitude control of small satellite. 8th IAA Symposium on Small Satellites for Earth Observation, Berlin, Germany, April 2011
 
 
-# 🎊 Projects
+# Projects
 (_selected_)
 
 2020.12 - 2025.11, Multi-DOF Control of Electrostatic Levitation Systems
@@ -128,12 +128,12 @@ __Conference Proceedings__(_selected_)
 2018.1 - 2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies
 
 
-# 📚 Courses
+# Courses
 - Undergraduate Courses: MATLAB with Applications
 - Postgraduate Courses: Robust and Adaptive Control
 
 
-# 👍 Group Members
+# Group Members
 ***Please do not hesitate to email me your CV including your interests and the transcript !***
 
 2022.9 - : Cheng Liu, JiaBo Liu
