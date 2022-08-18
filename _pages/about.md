@@ -19,7 +19,7 @@ redirect_from:
 
 I am an associate professor affiliated with the School of Aeronautics and Astronautics, Sun Yat-sen University, ShenZhen, China. Before joining SYSU, I worked successively in City University of Hong Kong (hosted by Prof. Gang Feng), Southeast University (hosted by Prof. WenWu Yu), China, and Delft University of Technology (hosted by Prof. Tamas Keviczky), the Netherlands. 
 
-My current research interest includes robust control system design via (incremental) sector-boundedness, high-gain observer redesign with applications, electrostatic accelerometer modeling & control, distributed network coordination, and cooperative pointing control.
+My current research interest includes robust control system design via (incremental) sector-boundedness, high-gain observer redesign with applications, electrostatic levitation system modeling & control, distributed network coordination, and cooperative pointing control.
 
 ***Postdoc openings are always available largely on networks and control !***
 
@@ -123,7 +123,7 @@ __Conference Proceedings__(_selected_)
 # 🎊 Projects
 (_selected_)
 
-2020.12 - 2025.11, Multi-DOF Control of Inertial Sensors for [Gravitational Wave Detector](https://www.cosmos.esa.int/web/lisa)
+2020.12 - 2025.11, Multi-DOF Control of Inertial Sensors
 
 2018.1 - 2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies
 
