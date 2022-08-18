@@ -4,16 +4,16 @@ main:
     url: "/#about-me"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
     
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Projects"
-    url: "/#-projects"
+    url: "/#projects"
     
   - title: "Courses"
-    url: "/#-courses"
+    url: "/#courses"
 
   - title: "GroupMembers"
-    url: "/#-group-members"
+    url: "/#group-members"
