@@ -45,7 +45,7 @@ __Journal Articles__(_selected_)
 
 [J23] N. Wang, M.L. Lv, G.H. Wen, Y. Wang, F. Zhang. Fixed-time constrained consensus tracking for high-order nonlinear multi-agent networks: A singularity-free protocol design approach. IEEE Transactions on Neural Networks and Learning Systems, _under review 2nd round_, 2022
 
-[J22] J.Z. Wu, S. Yuan, Q.Q. Dang, F. Zhang*, W.W. Yu. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, accepted, 2022
+[J22] J.Z. Wu, S. Yuan, Q.Q. Dang, F. Zhang*, W.W. Yu. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, online, 2022
 
 [J21] X.L. Wang, H.S. Su*, F. Zhang, G.R. Chen. A robust distributed interval observer for LTI systems. IEEE Transactions on Automatic Control _full paper_, online, 2022
 
