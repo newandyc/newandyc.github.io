@@ -21,7 +21,7 @@ I am an associate professor affiliated with the School of Aeronautics and Astron
 
 My current research interest includes robust control system design via (incremental) sector-boundedness, observer redesign with applications, electrostatic levitation control, distributed network coordination, and cooperative pointing control.
 
-***Postdoc openings are always available largely on networks and control !***
+***Postdoc openings are always available largely in networks and control !***
 
 
 # Educations
