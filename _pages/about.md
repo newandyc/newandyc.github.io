@@ -128,14 +128,13 @@ __Conference Proceedings__(_selected_)
 2018.1 - 2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies
 
 # Professional Service
-- Reviewer: IEEE Transactions on Automatic Control, Automatica, Journal of Robust and Nonlinear Control, IEEE Transactions on Control of Network Systems, Nonlinear
-Analysis: Hybrid Systems, Systems & Control Letters, International Journal of Control, European Journal of Control, IEEE Transactions on Cybernetics, IEEE
-Transactions on Systems, Man and Cybernetics: Systems, Asian Journal of Control, IEEE Control Systems Letters, Journal of The Franklin Institute, Optimal Control
-Applications and Methods, IEEE Internet of Things Journal, IEEE Systems Journal, IEEE Conference on Decision and Control, IFAC World Congress, American
+- Reviewer: IEEE Transactions on Automatic Control, Automatica, IEEE Transactions on Control of Network Systems, Journal of Robust and Nonlinear Control, Systems & Control Letters, Nonlinear Analysis: Hybrid Systems, International Journal of Control, European Journal of Control, IEEE Transactions on Cybernetics, IEEE
+Transactions on Systems, Man and Cybernetics: Systems, Journal of The Franklin Institute, Asian Journal of Control, IEEE Control Systems Letters, Optimal Control
+Applications and Methods, IEEE Systems Journal, IEEE Internet of Things Journal, IEEE Conference on Decision and Control, IFAC World Congress, American
 Control Conference, European Control Conference, Asian Control Conference, IEEE International Conference on Control & Automation, Chinese Control Conference,
 Chinese Control and Decision Conference
 
-- Program Committee: 20th International Conference on Control, Automation and Systems, BEXCO, Busan, Korea, October 13-16, 2020
+- Program Committee Member: 20th International Conference on Control, Automation and Systems, BEXCO, Busan, Korea, October 13-16, 2020
 
 
 # Courses
