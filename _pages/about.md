@@ -39,7 +39,7 @@ __Journal Articles__(_selected_)
 
 [J26] N. Wang, M.L. Lv, B. Chang, G.H. Wen, F. Zhang. Event-based distributed specified-time constrained consensus control for high-order multi-agent networks with unknown control directions. IEEE Transactions on Systems, Man and Cybernetics: Systems, _under review_, 2022
 
-[J25] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Synchronization of Lur'e networks via heterogeneous sector-bounded unknown feedback. IEEE Transactions on Control of Network Systems, _under review_, 2022 (This paper has been rejected 3 months later without peer review. The AE thinks, the result is trivial by using the sector-boundedness condition. Then, he/she should ask control people to delete the absolute stability theory from control theory. This indeed sucks!)
+[J25] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Synchronization of Lur'e networks via heterogeneous sector-bounded unknown feedback. IEEE Transactions on Control of Network Systems, _under review_, 2022 (This paper has been rejected 3 months later without peer review. The AE thinks, the result is trivial by using the sector-boundedness condition. Then, he/she should ask control people to remove the absolute stability theory from control theory. This indeed sucks!)
 
 [J24] P. Ramazi, F. Zhang, M. Cao. Cooperative concurrent targeting for planar arrays of point sources. Automatica, _under review_, 2022
 
