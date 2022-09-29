@@ -145,7 +145,7 @@ Chinese Control and Decision Conference
 # Group Members
 ***Please do not hesitate to email me your CV and transcript !***
 
-2022.9 - : Cheng Liu, JiaBo Liu
+2022.9 - : Cheng Liu, JiaBo Liu, Hao Xu
 
 2021.9 - ：ZhiMing Yang, HongJie Fang
 
