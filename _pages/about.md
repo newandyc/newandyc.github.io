@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an associate professor affiliated with the School of Aeronautics and Astronautics, Sun Yat-sen University, ShenZhen, China. Before joining SYSU, I worked successively in City University of Hong Kong (hosted by Prof. Gang Feng), Southeast University (hosted by Prof. WenWu Yu), China, and Delft University of Technology (hosted by Prof. Tamas Keviczky), the Netherlands. 
+I am an associate professor affiliated with the School of Aeronautics and Astronautics, Sun Yat-sen University, ShenZhen, China. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. 
 
 My current research interest includes robust control system design via (incremental) sector-boundedness, observer redesign with applications, electrostatic suspension control, distributed network coordination, and cooperative pointing control.
 
