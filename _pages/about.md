@@ -136,6 +136,8 @@ Chinese Control and Decision Conference
 
 - Program Committee Member: 20th International Conference on Control, Automation and Systems, BEXCO, Busan, Korea, October 13-16, 2020
 
+- Editorial Board Member: IET Control Theory & Applications
+
 
 # Courses
 - Undergraduate Courses: MATLAB with Applications
