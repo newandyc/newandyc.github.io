@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an associate professor affiliated with the School of Aeronautics and Astronautics, Sun Yat-sen University, ShenZhen, China. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. 
+I am an associate professor and the director of the Networks and Control Group, Sun Yat-sen University, ShenZhen, China. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. 
 
 My current research interest includes robust & learning control system design via quadratic inequalities, observer redesign with applications, electrostatic suspension control, distributed network coordination, and cooperative pointing control.
 
