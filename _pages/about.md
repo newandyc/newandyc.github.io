@@ -36,7 +36,6 @@ My current research interest includes robust & learning control system design vi
 
 # Publications
 __Journal Articles__(_selected_)
-
 [J26] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Absolute synchronization of Lur'e networks via heterogeneous unknown interconnections. _in preparation_, 2022
 
 [J25] N. Wang, M.L. Lv, B. Chang, G.H. Wen, F. Zhang. Event-based distributed specified-time constrained consensus control for high-order multi-agent networks with unknown control directions. IEEE Transactions on Systems, Man and Cybernetics: Systems, _under review_, 2022
@@ -92,13 +91,11 @@ __Journal Articles__(_selected_)
 ___
 
 __Book Chapters__(_selected_)
-
-[B1] J.J. Fu, G.H. Wen, Y.J. Xu, A. Zemouche, F. Zhang. Resilient cooperative control of input constrained networked cyber-physical systems. Security and Resilience in Cyber-Physical Systems: Detection, Estimation and Control, to appear, 2022
+[B1] J.J. Fu, G.H. Wen, Y.J. Xu, A. Zemouche, F. Zhang. Resilient cooperative control of input constrained networked cyber-physical systems. Security and Resilience in Cyber-Physical Systems: Detection, Estimation and Control, Springer Cham, 2022
 
 ___
 
 __Conference Proceedings__(_selected_)
-
 [C10] H. Arezki, F. Zhang, A. Zemouche. A HG/LMI-based observer for a tumor growth model. 20th European Control Conference, pp. 259-263, London, UK, July 12-15, 2022
 
 [C9] F. Zhang, H.L. Liang, G.H. Wen, A. Zemouche, W.W. Yu. Absolute stabilization of Lur'e systems by periodically intermittent control. 15th IEEE International Conference on Control and Automation invited session, pp. 1102-1107, Edinburgh, Scotland, July 16-19, 2019
@@ -146,7 +143,6 @@ Chinese Control and Decision Conference
 
 # Group Members
 ***Please do not hesitate to email me your CV and transcript !***
-
 2022.9 - : Cheng Liu, JiaBo Liu, Hao Xu
 
 2021.9 - ：ZhiMing Yang, HongJie Fang
