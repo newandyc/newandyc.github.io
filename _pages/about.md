@@ -147,12 +147,17 @@ Chinese Control and Decision Conference
 
 
 # Group Members
-___Current MS Students___
+___Current MS students___
 
 2022.9 - : Cheng Liu, JiaBo Liu, Hao Xu
 
 2021.9 - ：ZhiMing Yang, HongJie Fang
-___Former MS Students___
+
+___Current undergraduates___
+
+2022.10 - : YuAng Ke, MingShuai Wu, Ke Xu
+
+___Former MS students___
 
 2020.9 - 2022.6: Xin Deng (CaiNiao Network Technology Co., Ltd, HangZhou, China)
 
