@@ -37,7 +37,7 @@ My current research interest includes robust & learning control system design vi
 # Publications
 __Journal Articles__(_selected_)
 
-[J27] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Absolute synchronization of Lur'e networks via heterogeneous unknown interconnections. _in preparation_, 2022
+[J27] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Absolute synchronization of Lur'e networks via heterogeneous unknown interconnections. IEEE Transactions on Circuits and Systems II: Express Briefs, _submitted_, 2022
 
 [J26] N. Wang, M.L. Lv, X.L. Wang, G.H. Wen, F. Zhang. Fixed-time constrained consensus tracking for high-order nonlinear multi-agent networks: A singularity-free protocol design approach. IEEE Transactions on Network Science and Engineering, _submitted_, 2022
 
