@@ -155,7 +155,7 @@ ___Current MS students___
 
 ___Current undergraduates___
 
-2022.10 - : YuAng Ke, MingShuai Wu, Ke Xu
+2022.11 - : YuAng Ke, MingShuai Wu, Ke Xu
 
 ___Former MS students___
 
