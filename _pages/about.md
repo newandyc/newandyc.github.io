@@ -19,7 +19,7 @@ redirect_from:
 
 I am an associate professor and the director of the Networks & Control Group, Sun Yat-sen University, ShenZhen, China. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. 
 
-My current research interest includes robust & learning control, observer design with applications, electrostatic suspension control, distributed network coordination, and cooperative pointing control.
+My current research interest includes robust & learning control, observer design with applications, electrostatic suspension control, and distributed network coordination (in particular, cooperative pointing control).
 
 ***Postdoc openings are always available largely in networks and control !***
 
