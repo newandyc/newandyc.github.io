@@ -37,17 +37,17 @@ My current research interest includes robust & learning control, observer design
 # Publications
 __Journal Articles__(_selected_)
 
-[J27] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Absolute synchronization of Lur'e networks via heterogeneous unknown interconnections. IEEE Transactions on Circuits and Systems II: Express Briefs, _submitted_, 2022
+[J28] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Absolute synchronization of Lur'e networks via heterogeneous unknown interconnections. IEEE Transactions on Circuits and Systems II: Express Briefs, _submitted_, 2022
 
-[J26] N. Wang, M.L. Lv, X.L. Wang, G.H. Wen, F. Zhang. Fixed-time constrained consensus tracking for high-order nonlinear multi-agent networks: A singularity-free protocol design approach. IEEE Transactions on Network Science and Engineering, _submitted_, 2022
+[J27] N. Wang, M.L. Lv, X.L. Wang, G.H. Wen, F. Zhang. Fixed-time constrained consensus tracking for high-order nonlinear multi-agent networks: A singularity-free protocol design approach. IEEE Transactions on Network Science and Engineering, _submitted_, 2022
 
-[J25] S.Y. Meng, F.W. Meng, F. Zhang, Q. Li, Y. Zhang, A. Zemouche. A new observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications to vehicle and lithium batter. Automatica, _submitted_, 2022
+[J26] S.Y. Meng, F.W. Meng, F. Zhang, Q. Li, Y. Zhang, A. Zemouche. A new observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications to vehicle and lithium batter. Automatica, _submitted_, 2022
 
-[J24] N. Wang, M.L. Lv, B. Chang, G.H. Wen, F. Zhang. Event-based distributed specified-time constrained consensus control for high-order multi-agent networks with unknown control directions. IEEE Transactions on Systems, Man and Cybernetics: Systems, _under review_, 2022
+[J25] N. Wang, M.L. Lv, B. Chang, G.H. Wen, F. Zhang. Event-based distributed specified-time constrained consensus control for high-order multi-agent networks with unknown control directions. IEEE Transactions on Systems, Man and Cybernetics: Systems, _under review_, 2022
 
-[J23] P. Ramazi, F. Zhang, M. Cao. Cooperative concurrent targeting for planar arrays of point sources. Automatica, _under review_, 2022
+[J24] P. Ramazi, F. Zhang, M. Cao. Cooperative concurrent targeting for planar arrays of point sources. Automatica, _under review_, 2022
 
-[J24] T.T. Zhang, S.J. Zhang, F.Z. Guo, X.T. Zhao, F. Zhang. Prescribed time attitude containment control for satellite cluster with bounded disturbances. ISA Transactions, _accepted_, 2022
+[J23] T.T. Zhang, S.J. Zhang, F.Z. Guo, X.T. Zhao, F. Zhang. Prescribed time attitude containment control for satellite cluster with bounded disturbances. ISA Transactions, _accepted_, 2022
 
 [J22] J.Z. Wu, S. Yuan, Q.Q. Dang, F. Zhang*, W.W. Yu. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, online, 2022
 
