@@ -19,7 +19,7 @@ redirect_from:
 
 I am an associate professor and the director of the Networks & Control Group, Sun Yat-sen University, ShenZhen, China. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. 
 
-My current research interest includes robust & learning control, observer design, electrostatic suspension control, and distributed network coordination, including <font color=Blue>cooperative pointing control</font>.
+My current research interest includes robust & learning control, observer design, electrostatic suspension control, and distributed network coordination, including cooperative pointing control.
 
 ***Postdoc openings are always available largely in networks and control !***
 
@@ -46,6 +46,8 @@ __Journal Articles__(_selected_)
 [J24] N. Wang, M.L. Lv, B. Chang, G.H. Wen, F. Zhang. Event-based distributed specified-time constrained consensus control for high-order multi-agent networks with unknown control directions. IEEE Transactions on Systems, Man and Cybernetics: Systems, _under review_, 2022
 
 [J23] P. Ramazi, F. Zhang, M. Cao. Cooperative concurrent targeting for planar arrays of point sources. Automatica, _under review_, 2022
+
+[J24] T.T. Zhang, S.J. Zhang, F.Z. Guo, X.T. Zhao, F. Zhang. Prescribed time attitude containment control for satellite cluster with bounded disturbances. ISA Transactions, _accepted_, 2022
 
 [J22] J.Z. Wu, S. Yuan, Q.Q. Dang, F. Zhang*, W.W. Yu. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, online, 2022
 
