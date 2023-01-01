@@ -47,7 +47,7 @@ __Journal Articles__(_selected_)
 
 [J24] P. Ramazi, F. Zhang, M. Cao. Cooperative concurrent targeting for planar arrays of point sources. Automatica, _under review_, 2022
 
-[J23] T.T. Zhang, S.J. Zhang, F.Z. Guo, X.T. Zhao, F. Zhang. Prescribed time attitude containment control for satellite cluster with bounded disturbances. ISA Transactions, _accepted_, 2022
+[J23] T.T. Zhang, S.J. Zhang, F.Z. Guo, X.T. Zhao, F. Zhang. Prescribed time attitude containment control for satellite cluster with bounded disturbances. ISA Transactions, _online_, 2022
 
 [J22] J.Z. Wu, S. Yuan, Q.Q. Dang, F. Zhang*, W.W. Yu. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, online, 2022
 
