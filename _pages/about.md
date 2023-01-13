@@ -37,7 +37,7 @@ My current research interest includes robust & learning control via quadratic in
 # Publications
 __Journal Articles__(_selected_)
 
-[J29] Q.Q. Dang, Z.B. Liu, S.L. Cui, A. Zemouche, F. Zhang. Constrained output feedback control of spacecraft attitude via explicit reference governor. IEEE Systems Journal, 2023
+{% [J29] Q.Q. Dang, Z.B. Liu, S.L. Cui, A. Zemouche, F. Zhang. Constrained output feedback control of spacecraft attitude via explicit reference governor. IEEE Systems Journal, 2023 %}
 
 [J28] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Absolute synchronization of Lur'e networks via heterogeneous unknown interconnections. IEEE Transactions on Circuits and Systems II: Express Briefs, _under review_, 2022
 
@@ -152,6 +152,7 @@ Chinese Control and Decision Conference
 
 # Group Members
 ___Current Postdocs___
+
 2023.3 - :
 
 ___Current MS students___
