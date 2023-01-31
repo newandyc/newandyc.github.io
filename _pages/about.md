@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am the director of the Networks & Control Group at SYSU. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. I received double Ph.D. degrees from University of Groningen, the Netherlands, and Harbin Institute of Technology, China. My current research interest includes robust and learning control & estimation, distributed network coordination including formation control & cooperative pointing control.
+I am the director of the Networks & Control Group at SYSU. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. I received double Ph.D. degrees from University of Groningen, the Netherlands, and Harbin Institute of Technology, China. My current research interest includes robust and learning estimation & control, distributed network coordination including formation control & cooperative pointing control.
 
 ***Postdoc openings are always available largely in networks and control !***
 
