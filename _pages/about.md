@@ -17,21 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am the director of the Networks & Control Group, Sun Yat-sen University, ShenZhen, China. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. 
+I am the director of the Networks & Control Group, Sun Yat-sen University, ShenZhen, China. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. I received double Ph.D. degrees from University of Groningen, the Netherlands, and Harbin Institute of Technology, China.
 
 My current research interest includes robust & learning control via quadratic inequalities, nonlinear observer design, electrostatic suspension control, and distributed network coordination, including cooperative pointing control.
 
 ***Postdoc openings are always available largely in networks and control !***
-
-
-# Educations
-2012.3 - 2015.6, Ph.D. in Systems & Control, University of Groningen, the Netherlands
-
-2010.9 - 2016.1, Ph.D. in Control Theory & Control Engineering, Harbin Institute of Technology, China
-
-2008.9 - 2010.7, M.E. in Flight Vehicle Design, HIT, China
-
-2004.9 - 2008.7, B.E. in Automation, HIT, China
 
 
 # Publications
