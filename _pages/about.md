@@ -145,7 +145,7 @@ ___Current MS students___
 
 2021.9 - ：ZhiMing Yang, HongJie Fang
 
-___Current undergraduates___
+___Current Undergraduates___
 
 2022.11 - : YuAng Ke, MingShuai Wu, Ke Xu
 
