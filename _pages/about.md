@@ -139,17 +139,17 @@ ___Current Postdocs___
 
 2023.3 - :
 
-___Current MS students___
+___Current master students___
 
 2022.9 - : Cheng Liu, JiaBo Liu, Hao Xu
 
 2021.9 - ：ZhiMing Yang, HongJie Fang
 
-___Current Undergraduates___
+___Current undergraduates___
 
 2022.11 - : YuAng Ke, MingShuai Wu, Ke Xu
 
-___Former MS students___
+___Former master students___
 
 2020.9 - 2022.6: Xin Deng (CaiNiao Network Technology Co., Ltd, HangZhou, China)
 
