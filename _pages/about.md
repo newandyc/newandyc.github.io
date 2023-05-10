@@ -25,7 +25,7 @@ I am the director of the Networks & Control Group at SYSU. Before joining SYSU, 
 # Publications
 __Journal Articles__(_selected_)
 
-[28] Q. Dang, Z.B. Liu, A. Zemouche, P. Liu, F. Zhang. Constrained output feedback control of spacecraft attitude via explicit reference governor. International Journal of Robust and Nonlinear Control, _under review_, 2023
+[28] Q.Q. Dang, Z.B. Liu, A. Zemouche, P. Liu, F. Zhang. Constrained output feedback control of spacecraft attitude via explicit reference governor. International Journal of Robust and Nonlinear Control, _under review_, 2023
 
 [J27] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Absolute synchronization of Lur'e networks via heterogeneous unknown interconnections. IEEE Transactions on Circuits and Systems II: Express Briefs, _under review 2nd round_, 2022
 
@@ -147,12 +147,11 @@ ___Current master students___
 
 2021.9 - ：ZhiMing Yang, HongJie Fang
 
-___Current undergraduates___
-
-2022.11 - : YuAng Ke, MingShuai Wu, Ke Xu
-
 ___Former master students___
 
 2020.9 - 2022.6: Xin Deng (CaiNiao Network Technology Co., Ltd, HangZhou, China)
 
 2019.9 - 2022.6: JinZe Wu (Southern University of Science and Technology, ShenZhen, China & Politecnico di Torino, Turin, Italy)
+
+___Former undergraduates___
+2022.11 - 2023.6. YuAng Ke, MingShuai Wu, Ke Xu
