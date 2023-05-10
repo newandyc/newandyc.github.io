@@ -139,7 +139,7 @@ Chinese Control and Decision Conference
 # Group Members
 ___Current Postdocs___
 
-2023.3 - :
+2023.8 - :
 
 ___Current master students___
 
