@@ -29,7 +29,7 @@ __Journal Articles__(_selected_)
 
 [J27] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Absolute synchronization of Lur'e networks via heterogeneous unknown interconnections. IEEE Transactions on Circuits and Systems II: Express Briefs, _under review 2nd round_, 2022
 
-[J26] S.Y. Meng, F.W. Meng, F. Zhang, Q. Li, Y. Zhang, A. Zemouche. A new observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications to vehicle and lithium batter. Automatica, _under review 2nc round_, 2022
+[J26] S.Y. Meng, F.W. Meng, F. Zhang, Q. Li, Y. Zhang, A. Zemouche. A new observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications to vehicle and lithium batter. Automatica, _under review 2nd round_, 2022
 
 [J25] N. Wang, M.L. Lv, B. Chang, G.H. Wen, F. Zhang. Event-based distributed specified-time constrained consensus control for high-order multi-agent networks with unknown control directions. IEEE Transactions on Systems, Man and Cybernetics: Systems, _under review_, 2022
 
