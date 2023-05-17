@@ -157,4 +157,4 @@ ___Former master students___
 
 ___Former undergraduates___
 
-2022.11 - 2023.6. YuAng Ke, MingShuai Wu, Ke Xu
+2022.11 - 2023.6. YuAng Ke (master student, SYSU), MingShuai Wu (master student, SYSU), Ke Xu (master student, PKU)
