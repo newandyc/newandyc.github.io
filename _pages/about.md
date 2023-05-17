@@ -132,8 +132,8 @@ Chinese Control and Decision Conference
 
 
 # Courses
-- Undergraduate Courses: MATLAB with Applications
-- Postgraduate Courses: Robust and Adaptive Control
+- Undergraduate Courses: MATLAB with Applications, Modern Control Theory
+- Postgraduate Courses: Robust and Adaptive Control, Nonlinear Systems and Control
 
 
 # Group Members
@@ -157,4 +157,4 @@ ___Former master students___
 
 ___Former undergraduates___
 
-2022.11 - 2023.6. YuAng Ke (master student, SYSU), MingShuai Wu (master student, SYSU), Ke Xu (master student, PKU)
+2022.11 - 2023.5: YuAng Ke (master student, SYSU), MingShuai Wu (master student, SYSU), Ke Xu (master student, PKU)
