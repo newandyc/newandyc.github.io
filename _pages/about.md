@@ -120,7 +120,7 @@ __Conference Proceedings__(_selected_)
 2018.1 - 2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies
 
 # Professional Service
-- Associate Editor: IET Control Theory & Applications
+- Associate Editor: European Journal of Control, IET Control Theory & Applications
 
 - Program Committee Member: 20th International Conference on Control, Automation and Systems, BEXCO, Busan, Korea, October 13-16, 2020
 
