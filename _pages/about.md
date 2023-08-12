@@ -25,7 +25,7 @@ I received double Ph.D. degrees from University of Groningen, the Netherlands, a
 # Publications
 __Journal Articles__
 
-[J26] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Absolute synchronization of Lur'e networks via heterogeneous unknown interconnections. IEEE Transactions on Circuits and Systems II: Express Briefs, _under review 3rd round_, 2023
+[J26] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Synchronization of Lur'e networks via heterogeneous unknown interconnections. IEEE Transactions on Circuits and Systems II: Express Briefs, _under review 3rd round_, 2023
 
 [J25] S.Y. Meng, F.W. Meng, F. Zhang, Q. Li, Y. Zhang, A. Zemouche. A new observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications to vehicle and lithium batter. Automatica, _under review 2nd round_, 2023
 
