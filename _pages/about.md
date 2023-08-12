@@ -108,8 +108,8 @@ __Conference Proceedings__(_selected_)
 [C1] Y.H. Geng, W. Lu, F. Zhang. Robust sliding mode control for attitude control of small satellite. 8th IAA Symposium on Small Satellites for Earth Observation, Berlin, Germany, April 2011
 
 
-# Projects
-(_selected_)
+#
+__Projects__ (_selected_)
 
 2020.12 - 2025.11, Multi-DOF Control of Electrostatic Suspension Systems
 
