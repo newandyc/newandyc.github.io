@@ -23,7 +23,7 @@ I received double Ph.D. degrees from University of Groningen, the Netherlands, a
 
 
 # Publications
-__Journal Articles__(_selected_)
+__Journal Articles__
 
 [J26] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Absolute synchronization of Lur'e networks via heterogeneous unknown interconnections. IEEE Transactions on Circuits and Systems II: Express Briefs, _under review 3rd round_, 2023
 
@@ -79,13 +79,13 @@ __Journal Articles__(_selected_)
 
 ___
 
-__Book Chapters__(_selected_)
+__Book Chapters__
 
 [B1] J.J. Fu, G.H. Wen, Y.J. Xu, A. Zemouche, F. Zhang. Resilient cooperative control of input constrained networked cyber-physical systems. Security and Resilience in Cyber-Physical Systems: Detection, Estimation and Control, Springer, 2022
 
 ___
 
-__Conference Proceedings__(_selected_)
+__Conference Proceedings__
 
 [C10] H. Arezki, F. Zhang, A. Zemouche. A HG/LMI-based observer for a tumor growth model. 20th European Control Conference, pp. 259-263, London, UK, July 12-15, 2022
 
@@ -108,12 +108,12 @@ __Conference Proceedings__(_selected_)
 [C1] Y.H. Geng, W. Lu, F. Zhang. Robust sliding mode control for attitude control of small satellite. 8th IAA Symposium on Small Satellites for Earth Observation, Berlin, Germany, April 2011
 
 
-#
-__Projects__ (_selected_)
+# Projects
 
 2020.12 - 2025.11, Multi-DOF Control of Electrostatic Suspension Systems
 
 2018.1 - 2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies
+
 
 # Professional Service
 - Associate Editor: European Journal of Control, IET Control Theory & Applications
