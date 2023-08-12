@@ -135,7 +135,7 @@ Chinese Control and Decision Conference
 # Group Members
 ___Current Postdocs___
 
-2023.8 - : Hongfu Wang
+2023.8 - : HongFu Wang
 
 ___Current master students___
 
