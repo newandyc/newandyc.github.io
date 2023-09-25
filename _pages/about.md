@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received double Ph.D. degrees from Harbin Institute of Technology, China, and University of Groningen, the Netherlands. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. My current research interests include robust & learning estimation and control, distributed coordination of multi-robot networks.
+I received double Ph.D. degrees from Harbin Institute of Technology, China, and University of Groningen, the Netherlands. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. My current research interests include robust & learning control and their applications in distributed coordination of multi-robot systems.
 
 ***Postdoc openings are always available largely in networks and control !***
 
@@ -25,7 +25,7 @@ I received double Ph.D. degrees from Harbin Institute of Technology, China, and 
 # Publications
 __Journal Articles__
 
-[J26] S.Y. Meng, F.W. Meng, F. Zhang, Q. Li, Y. Zhang, A. Zemouche. A new observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications to vehicle and lithium batter. Automatica, _under review 2nd round_, 2023
+[J26] S.Y. Meng, F.W. Meng, F. Zhang, Q. Li, Y. Zhang, A. Zemouche. A new observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications to vehicle and lithium batter. Automatica _regular paper_, _provisionally accepted_, 2023
 
 [J25] F. Zhang, Y.L. Li, W.G. Xia, T. Liu, W.W. Yu. Synchronization of Lur'e networks via heterogeneous unknown interconnections. IEEE Transactions on Circuits and Systems II: Express Briefs, _accepted_, 2023
 
