@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received double Ph.D. degrees from Harbin Institute of Technology, China, and University of Groningen, the Netherlands. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. My current research interests include robust & learning control and their applications in distributed coordination of multi-robot systems.
+I received double Ph.D. degrees from Harbin Institute of Technology, China, and University of Groningen, the Netherlands. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. My current research interests include distributed GNC of multi-robot systems.
 
 ***Postdoc openings are always available largely in networks and control !***
 
@@ -41,9 +41,9 @@ __Journal Articles__
 
 [J19] N. Wang, Y. Wang, G.H. Wen*, M.L. Lv, F. Zhang. Fuzzy adaptive constrained consensus tracking of high-order multi-agent networks: A new event-triggered mechanism. IEEE Transactions on Systems, Man and Cybernetics: Systems, 52(9):5468-5480, September 2022
 
-[J18] F. Zhang, G.H. Wen, A. Zemouche, W.W. Yu*, J.H. Park. Output feedback self-synchronization of directed Lur'e networks via global connectivity. IEEE Transactions on Cybernetics, 52(7):6490-6503, July 2022
+[J18] R.W. Zuo, Y.H. Li, M.L. Lv, Z.C. Liu, F. Zhang. Fuzzy adaptive output-feedback constrained trajectory tracking control for HFVs with fixed-time convergence. IEEE Transactions on Fuzzy Systems, 30(11): 4828-4840, September 2022
 
-[J17] R.W. Zuo, Y.H. Li, M.L. Lv, Z.C. Liu, F. Zhang. Fuzzy adaptive output-feedback constrained trajectory tracking control for HFVs with fixed-time convergence. IEEE Transactions on Fuzzy Systems, 30(11): 4828-4840, September 2022
+[J17] F. Zhang, G.H. Wen, A. Zemouche, W.W. Yu*, J.H. Park. Output feedback self-synchronization of directed Lur'e networks via global connectivity. IEEE Transactions on Cybernetics, 52(7):6490-6503, July 2022
 
 [J16] S.J. Zhang*, T.T. Zhang, H.B. Guo, F. Zhang. General attitude cooperative control of satellite formation by set stabilization. Acta Astronautica, 191:125-133, February 2022
 
@@ -55,9 +55,9 @@ __Journal Articles__
 
 [J12] N. Wang, Y. Wang, J.H. Park*, M.L. Lv, F. Zhang. Fuzzy adaptive finite-time consensus tracking control of high-order nonlinear multi-agent networks with dead-zone. Nonlinear Dynamics, 106:3363–3378, 2021
 
-[J11] G.H. Wen*, P.J. Wang, T.W. Huang, J.H. Lv, F. Zhang. Distributed consensus of layered multi-agent systems subject to attacks on edges. IEEE Transactions on Circuits and Systems I: Regular Papers, 67(9):3152-3162, 2020
+[J11] P.F. Lu, H. Wang, F. Zhang, W.W. Yu*, G.R. Chen. Formation control of nonholonomic mobile robots using distributed estimators. IEEE Transactions on Circuits and Systems II: Express Briefs, 67(12):3162-3166, 2020
 
-[J10] P.F. Lu, H. Wang, F. Zhang, W.W. Yu*, G.R. Chen. Formation control of nonholonomic mobile robots using distributed estimators. IEEE Transactions on Circuits and Systems II: Express Briefs, 67(12):3162-3166, 2020
+[J10] G.H. Wen*, P.J. Wang, T.W. Huang, J.H. Lv, F. Zhang. Distributed consensus of layered multi-agent systems subject to attacks on edges. IEEE Transactions on Circuits and Systems I: Regular Papers, 67(9):3152-3162, 2020
 
 [J9] A. Zemouche, F. Zhang, F. Mazenc, R. Rajamani*. High-gain nonlinear observer design with lower tuning parameter. IEEE Transactions on Automatic Control _full paper_, 64(8):3194-3209, 2019
 
