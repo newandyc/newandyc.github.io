@@ -135,6 +135,8 @@ Chinese Control and Decision Conference
 # Group Members
 ___Current Postdocs___
 
+2024. - :
+
 2023.8 - : HongFu Wang
 
 ___Current Ph.D. students___
@@ -143,7 +145,7 @@ ___Current Ph.D. students___
 
 ___Current master students___
 
-2024.9 - :
+2024.9 - : Hao Chen, QinTao Lai,
 
 2023.9 - : YuAng Ke, YaChuan Li
 
