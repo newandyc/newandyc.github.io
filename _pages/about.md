@@ -145,7 +145,7 @@ ___Current Ph.D. students___
 
 ___Current master students___
 
-2024.9 - : Hao Chen, QinTao Lai, one opening
+2024.9 - : Hao Chen, QinTao Lai, _one opening left_
 
 2023.9 - : YuAng Ke, YaChuan Li
 
