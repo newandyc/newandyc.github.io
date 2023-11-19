@@ -137,13 +137,11 @@ Chinese Control and Decision Conference
 # Group Members
 ___Current Postdocs___
 
-2024. - :
-
 2023.8 - : HongFu Wang
 
 ___Current Ph.D. students___
 
-2024.9 - :
+2024.9 - : ZhiMing Yang, DanYu Li
 
 ___Current master students___
 
