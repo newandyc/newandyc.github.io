@@ -27,7 +27,7 @@ __Journal Articles__
 
 [J27] H.X. Hu, G.H. Wen*, Y. Chen, F. Zhang, T.W. Huang. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _submitted_, 2023
 
-[J26] S.Y. Meng, F.W. Meng*, F. Zhang, Q. Li, Y. Zhang, A. Zemouche. A new observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications to vehicle and lithium batter. Automatica _regular paper_, _provisionally accepted_, 2023
+[J26] S.Y. Meng, F.W. Meng*, F. Zhang, Q. Li, Y. Zhang, A. Zemouche. A new observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications to vehicle and lithium batter. Automatica _regular paper_, _accepted_, 2023
 
 [J25] F. Zhang, Y.L. Li*, W.G. Xia, T. Liu, W.W. Yu. Synchronization of Lur'e networks via heterogeneous unknown interconnections. IEEE Transactions on Circuits and Systems II: Express Briefs, _online_, 2023
 
