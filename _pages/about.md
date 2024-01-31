@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received double Ph.D. degrees from Harbin Institute of Technology, China, and University of Groningen, the Netherlands. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. My current research interests include distributed GNC of multi-robot systems, SDRE-Based Control Engineering.
+I received double Ph.D. degrees from Harbin Institute of Technology, China, and University of Groningen, the Netherlands. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands. My current research interests include distributed GNC of multi-robot systems, SDRE-based Control Engineering.
 
 ***Postdoc openings are always available largely in systems and control !***
 
