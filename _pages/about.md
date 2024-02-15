@@ -63,6 +63,8 @@ __Journal Articles__
 
 [J10] G.H. Wen*, P.J. Wang, T.W. Huang, J.H. Lv, F. Zhang. Distributed consensus of layered multi-agent systems subject to attacks on edges. IEEE Transactions on Circuits and Systems I: Regular Papers, 67(9):3152-3162, 2020
 
+[J10] F.Z. Guo, T.T. Zhang, F. Zhang, L. Gao, Z.P. Wang, S.J. Zhang*. Event-triggered coordinated attitude control for satellite formation under switching topology. Advanced Control for Applications: Engineering and Industrial Systems, 2(2):e34, 2020.
+
 [J9] A. Zemouche, F. Zhang, F. Mazenc, R. Rajamani*. High-gain nonlinear observer design with lower tuning parameter. IEEE Transactions on Automatic Control _full paper_, 64(8):3194-3209, 2019
 
 [J8] X.D. Chen*, J.M.A. Scherpen, F. Zhang. Model reduction of synchronized Lur'e networks with incrementally sector-bounded nonlinearities. European Journal of Control, 50:11-19, November 2019
