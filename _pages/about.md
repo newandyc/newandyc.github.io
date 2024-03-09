@@ -137,8 +137,8 @@ Chinese Control and Decision Conference
 
 
 # Courses
-- Undergraduate Courses: MATLAB with Applications, Modern Control Theory
-- Postgraduate Courses: Robust and Adaptive Control, Nonlinear Systems and Control
+- Undergraduate Courses: MATLAB with Applications
+- Postgraduate Courses: Nonlinear Systems and Control
 
 
 # Group Members
