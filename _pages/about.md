@@ -27,6 +27,9 @@ My current research interests include distributed GNC of multi-robot systems, en
 # Publications
 __Journal Articles__
 
+[J29] F. Zhang, C.L. Jin W.G. Xia, X.M. Sun, H. Bai. Cooperative pointing control of coplanar multi-robot systems via distributed target
+estimation. Automatica, _submitted_, 2024
+
 [J28] H.X. Hu, G.H. Wen*, Y. Chen, F. Zhang, T.W. Huang. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _submitted_, 2023
 
 [J27] S.Y. Meng, F.W. Meng*, F. Zhang, Q. Li, Y. Zhang, A. Zemouche. Observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications. Automatica _regular paper_, _online_, 2023
