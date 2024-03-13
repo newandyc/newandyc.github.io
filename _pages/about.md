@@ -33,9 +33,9 @@ __Journal Articles__
 
 [J27] S.Y. Meng, F.W. Meng*, F. Zhang, Q. Li, Y. Zhang, A. Zemouche. Observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications. Automatica _regular paper_, _online_, 2023
 
-[J26] F. Zhang, Y.L. Li*, W.G. Xia, T. Liu, W.W. Yu. Synchronization of Lur'e networks via heterogeneous unknown interconnections. IEEE Transactions on Circuits and Systems II: Express Briefs, _online_, 2023
+[J26] P. Ramazi*, F. Zhang, M. Cao. Cooperative concurrent targeting for planar arrays of point sources. Automatica, online, 2023
 
-[J25] P. Ramazi*, F. Zhang, M. Cao. Cooperative concurrent targeting for planar arrays of point sources. Automatica, online, 2023
+[J25] F. Zhang, Y.L. Li*, W.G. Xia, T. Liu, W.W. Yu. Synchronization of Lur'e networks via heterogeneous unknown interconnections. IEEE Transactions on Circuits and Systems II: Express Briefs, 71(2):807-811, February 2024
 
 [J24] J.Z. Wu, S. Yuan, Q.Q. Dang, F. Zhang*, W.W. Yu. Cooperative pointing control of collinear double-integrators without angular velocity. Journal of the Franklin Institute, 360(12):9050-9064, August 2023
 
