@@ -95,6 +95,8 @@ ___
 
 __Conference Proceedings__
 
+[C11] S.Y. Meng, F.W. Meng, F. Zhang, M. Alma, M. Haddad, A. Zemouche. Nonlinear observer design for vehicle lateral load transfer ratio estimation. American Control Conference, _to appear_, Toronto, Canada, July 8-12, 2024.
+
 [C10] H. Arezki, F. Zhang, A. Zemouche. A HG/LMI-based observer for a tumor growth model. 20th European Control Conference, pp. 259-263, London, UK, July 12-15, 2022
 
 [C9] F. Zhang, H.L. Liang, G.H. Wen, A. Zemouche, W.W. Yu. Absolute stabilization of Lur'e systems by periodically intermittent control. 15th IEEE International Conference on Control and Automation invited session, pp. 1102-1107, Edinburgh, Scotland, July 16-19, 2019
