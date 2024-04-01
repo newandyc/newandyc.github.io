@@ -135,8 +135,7 @@ __Conference Proceedings__
 
 # Courses
 - Undergraduate Courses: MATLAB with Applications
-- Postgraduate Courses: Nonlinear Systems and Control
-
+- Postgraduate Courses: Robust and Adaptive Control
 
 # Group Members
 ___Current Postdocs___
