@@ -148,7 +148,7 @@ ___Current Ph.D. students___
 
 ___Current master students___
 
-2024.9 - : Hao Chen, QinTao Lai
+2024.9 - : Hao Chen, QinTao Lai, RuTao Zhong
 
 2023.9 - : YuAng Ke, YaChuan Li
 
