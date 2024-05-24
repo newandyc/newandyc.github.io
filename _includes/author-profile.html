@@ -20,9 +20,8 @@
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> 
-        {% for loc in author.location %}
-        <div>{{ loc }}</div>
+        <li> {% for loc in author.location %}
+        <div><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ loc }}</div>
         {% endfor %} </li>
       {% endif %}
       {% if author.employer %}
