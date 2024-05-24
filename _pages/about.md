@@ -26,6 +26,8 @@ My current research interests include distributed control of multi-robot systems
 <span class='anchor' id='research'></span>
 # 🔬 Research
 
+<p><strong>Cooperative pointing control</strong></p>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
