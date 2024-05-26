@@ -51,9 +51,9 @@ My current research interests include distributed control of multi-robot systems
 
 Pouria Ramazi , **Fan Zhang**, Ming Cao
 
-**Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Automatica, 2023** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
- We have formulated the distributed concurrent targeting problems for planar arrays of point sources and proposed a novel coordination strategy to solve the problem, where the planar and solid geometry has been used to achieve the design and analysis. There are several possible future directions. One is to consider point sources that are distributed in the space rather than a plane. Another is to consider more detailed rotational dynamics of the point sources, such as double integrators. The target point may also be considered moving rather than fixed in the space.
++  We have formulated the distributed concurrent targeting problems for planar arrays of point sources and proposed a novel coordination strategy to solve the problem, where the planar and solid geometry has been used to achieve the design and analysis. There are several possible future directions. One is to consider point sources that are distributed in the space rather than a plane. Another is to consider more detailed rotational dynamics of the point sources, such as double integrators. The target point may also be considered moving rather than fixed in the space.
  </div>
 </div>
 
@@ -62,7 +62,7 @@ Pouria Ramazi , **Fan Zhang**, Ming Cao
   <div class='paper-box-image'>
     <div>
        <div class="badge">Robust Distributed Interval Observer</div>
-       <img src='/images/J22.png' alt="sym" width="80%">
+       <img src='/images/J22.png' alt="sym" width="100%">
       </div>
     </div>
  <div class='paper-box-text' markdown="1">
@@ -71,9 +71,9 @@ Pouria Ramazi , **Fan Zhang**, Ming Cao
 
 Xiaoling Wang, Housheng Su, **Fan Zhang**, Guanrong Chen
 
-**Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**ISA Transactions, 2023** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
- A robust distributed interval observer is designed, which consists of a group of sensors communicating with others through a directed graph where each sensor can only access partial information from the output of the plant. The communication among the sensors together with the heterogeneity and undetectability of the sensors result in some stringent requirements on the robust distributed interval observer construction. To resolve these restrictions, the internally positive representation originated from a single agent system is introduced into the robust distributed interval observer. 
+ + A robust distributed interval observer is designed, which consists of a group of sensors communicating with others through a directed graph where each sensor can only access partial information from the output of the plant. The communication among the sensors together with the heterogeneity and undetectability of the sensors result in some stringent requirements on the robust distributed interval observer construction. To resolve these restrictions, the internally positive representation originated from a single agent system is introduced into the robust distributed interval observer. 
  </div>
 </div>
 
