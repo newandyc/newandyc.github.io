@@ -19,7 +19,7 @@ redirect_from:
 
 I received double Ph.D. degrees from Harbin Institute of Technology, China, and University of Groningen, the Netherlands. Before joining SYSU, I worked successively in City University of Hong Kong, Southeast University, China, and Delft University of Technology, the Netherlands.
 
-My current research interests include distributed coordination of multi-robot systems, cooperative localization, cooperative guidance, enhanced observer design, LMI techniques, SDRE control.
+My current research interests include distributed coordination, cooperative localization, cooperative guidance, enhanced observer design, LMI techniques, SDRE control, and their applications in multi-robot systems.
 
 ***Postdoc openings are always available largely in systems and control !***
 
