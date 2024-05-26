@@ -166,15 +166,15 @@ Pouria Ramazi , **Fan Zhang**, Ming Cao
 
 # 💼 Professional Service
 
-<p><strong>Associate Editor:</strong></p>
+## Associate Editor:
 
 + European Journal of Control, IET Control Theory &amp; Applications
 
-<p><strong>Program Committee Member:</strong></p>
+## Program Committee Member:
 
 + 20th International Conference on Control, Automation and Systems, BEXCO, Busan, Korea, October 13-16, 2020
 
-<p><strong>Reviewer:</strong> 
+## Reviewer:
 
 + IEEE Transactions on Automatic Control, Automatica
 + IEEE Transactions on Control of Network Systems
@@ -201,10 +201,8 @@ Pouria Ramazi , **Fan Zhang**, Ming Cao
 + Chinese Control and Decision Conference
 
 
-
-
-
 <span class='anchor' id='courses'></span>
+
 # 📖 Courses
 
 <div style="display: flex; align-items: flex-start;">
@@ -224,6 +222,7 @@ Pouria Ramazi , **Fan Zhang**, Ming Cao
 
 
 <span class='anchor' id='group-Members'></span>
+
 # 🧑‍🎓 Group Members
 
 <p><strong><em>Current Postdocs</em></strong></p>
