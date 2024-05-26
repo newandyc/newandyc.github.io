@@ -154,13 +154,15 @@ ___Current master students___
 
 2022.9 - : Cheng Liu, JiaBo Liu, Hao Xu
 
-2021.9 - ：ZhiMing Yang, HongJie Fang
-
 ___Former master students___
+
+2021.9 - 2024.6: ZhiMing Yang (Phd student, SYSU)
+
+2021.9 - 2024.6: HongJie Fang (Control Engineer)
 
 2020.9 - 2022.6: Xin Deng (CaiNiao Network Technology Co., Ltd, HangZhou, China)
 
-2019.9 - 2022.6: JinZe Wu (Southern University of Science and Technology, ShenZhen, China & Politecnico di Torino, Turin, Italy)
+2019.9 - 2022.6: JinZe Wu (PhD student, Southern University of Science and Technology, ShenZhen, China & Politecnico di Torino, Turin, Italy)
 
 ___Former undergraduates___
 
