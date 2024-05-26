@@ -58,6 +58,25 @@ Pouria Ramazi , **Fan Zhang**, Ming Cao
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+       <div class="badge">Robust Distributed Interval Observer</div>
+       <img src='/images/J22.png' alt="sym" width="100%">
+      </div>
+    </div>
+ <div class='paper-box-text' markdown="1">
+
+[ A robust distributed interval observer for LTI systems](https://ieeexplore.ieee.org/document/9713996/figures#figures)
+
+Xiaoling Wang, Housheng Su, **Fan Zhang**, Guanrong Chen
+
+**Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+ A robust distributed interval observer is designed, which consists of a group of sensors communicating with others through a directed graph where each sensor can only access partial information from the output of the plant. The communication among the sensors together with the heterogeneity and undetectability of the sensors result in some stringent requirements on the robust distributed interval observer construction. To resolve these restrictions, the internally positive representation originated from a single agent system is introduced into the robust distributed interval observer. 
+ </div>
+</div>
+
 [J29] **F. Zhang**, C.L. Jin*, W.G. Xia, X.M. Sun, H. Bai. Cooperative pointing control of coplanar multi-robot systems via distributed target estimation. Automatica, <em>submitted</em>, 2024
 
 [J28] H.X. Hu, G.H. Wen*, Y. Chen,**F. Zhang**, T.W. Huang. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, <em>submitted</em>, 2023
@@ -74,7 +93,7 @@ Pouria Ramazi , **Fan Zhang**, Ming Cao
 
 [J22] X.L. Wang, H.S. Su*, **F. Zhang**, G.R. Chen. A robust distributed interval observer for LTI systems. IEEE Transactions on Automatic Control <em>full paper</em>, 68(3):1337-1352, March 2023
 
-[J21] N. Wang, G.H. Wen*, Y. Wang,** F. Zhang**, A. Zemouche. Fuzzy adaptive cooperative consensus tracking of high-order nonlinear multi-agent networks with guaranteed performances. IEEE Transactions on Cybernetics, 52(9):8838-8850, September 2022
+[J21] N. Wang, G.H. Wen*, Y. Wang,**F. Zhang**, A. Zemouche. Fuzzy adaptive cooperative consensus tracking of high-order nonlinear multi-agent networks with guaranteed performances. IEEE Transactions on Cybernetics, 52(9):8838-8850, September 2022
 
 [J20] N. Wang, Y. Wang, G.H. Wen*, M.L. Lv, **F. Zhang**. Fuzzy adaptive constrained consensus tracking of high-order multi-agent networks: A new event-triggered mechanism. IEEE Transactions on Systems, Man and Cybernetics: Systems, 52(9):5468-5480, September 2022
 
