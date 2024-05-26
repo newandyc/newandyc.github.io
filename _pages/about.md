@@ -62,7 +62,7 @@ Pouria Ramazi , **Fan Zhang**, Ming Cao
   <div class='paper-box-image'>
     <div>
        <div class="badge">Robust Distributed Interval Observer</div>
-       <img src='/images/J22.png' alt="sym" width="100%">
+       <img src='/images/J22.png' alt="sym" width="80%">
       </div>
     </div>
  <div class='paper-box-text' markdown="1">
