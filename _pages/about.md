@@ -32,6 +32,10 @@ My curent research interests include cooperative localization 8t guidance 8 cont
 - **Enclosing Control for Multiagent Systems**
   - Distributed collaborative encirclement of unicycles
 
+<video src="/images/circle.mp4" autoplay=true></video>
+<video src="/images/circle_distances.mp4" autoplay=true></video>
+
+
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
