@@ -33,16 +33,22 @@ My curent research interests include cooperative localization 8t guidance 8 cont
   - Distributed collaborative encirclement of unicycles
   
   <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-       <div class="badge">Robust Distributed Interval Observer</div>
-        <video src="/images/circle.mp4" width="320" height="240" autoplay></video>
+    <div class='paper-box-image'>
+      <div>
+         <div class="badge">Enclosing Control for Multiagent Systems</div>
+          <video src="/images/circle.mp4" width="100%" autoplay></video>
+        </div>
       </div>
-    </div>
- <div class='paper-box-text' markdown="1">
-
-<video src="/images/circle.mp4" autoplay=true></video>
-<video src="/images/circle_distances.mp4" autoplay=true></video>
+   <div class='paper-box-text' markdown="1">
+  
+   <div class='paper-box'>
+    <div class='paper-box-image'>
+      <div>
+         <div class="badge">Enclosing Control for Multiagent Systems</div>
+          <video src="/images/circle_distances.mp4" width="100%" autoplay></video>
+        </div>
+      </div>
+   <div class='paper-box-text' markdown="1">
 
 
 <span class='anchor' id='publications'></span>
