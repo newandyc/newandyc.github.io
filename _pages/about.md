@@ -35,7 +35,6 @@ My curent research interests include cooperative localization 8t guidance 8 cont
   <div class='paper-box'>
     <div class='paper-box-image'>
       <div>
-         <div class="badge">Enclosing Control for Multiagent Systems</div>
           <video src="/images/circle.mp4" width="100%" autoplay></video>
         </div>
       </div>
@@ -44,7 +43,6 @@ My curent research interests include cooperative localization 8t guidance 8 cont
    <div class='paper-box'>
     <div class='paper-box-image'>
       <div>
-         <div class="badge">Enclosing Control for Multiagent Systems</div>
           <video src="/images/circle_distances.mp4" width="100%" autoplay></video>
         </div>
       </div>
