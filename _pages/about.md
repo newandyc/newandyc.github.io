@@ -33,6 +33,10 @@ My current research interests include distributed control of multi-robot systems
 - **Enclosing Control for Multiagent Systems**
   - Distributed collaborative encirclement of unicycles
 
+<video src="/images/circle.mp4" autoplay=true></video>
+<video src="/images/circle_distances.mp4" autoplay=true></video>
+
+
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
