@@ -26,60 +26,55 @@ I received double Ph.D. degrees from Harbin Institute of Technology, China, and 
 My curent research interests include cooperative localization 8t guidance 8 control, enhanced observer design, LMl techniques, sbREtechniques, and their applications in multi-robot systems.
 
 - **Cooperative pointing control**
-  -  Cooperative pointing control of coplanar multi-robot systems via distributed target estimation
+  - Cooperative pointing control of coplanar multi-robot systems via distributed target estimation
   - Cooperative concurrent targeting for planar arrays of point sources
+  
+
+ <div class="paper-box">
+  <div class="paper-box-image" style="display: flex; justify-content: space-between;">
+    <div style="margin-right: 10px;">
+      <div class="badge">Distributed Target Positioning Control</div>
+      <img src='/images/AGIfp3.gif' alt="sym" width="100%">
+    </div>
+    <div>
+      <div class="badge">Cooperative pointing control</div>
+      <img src='/images/AGIfp7.gif' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
 
 - **Enclosing Control for Multiagent Systems**
   - Distributed collaborative encirclement of unicycles
  
 <div style="display: flex; justify-content: space-between;">
-  <video src="/images/circle.mp4" width="560" height="200" autoplay muted loop></video>
+  <video src="/images/circle1.mp4" width="560" height="200" autoplay muted loop></video>
   <video src="/images/circle_distances.mp4" width="560" height="200" autoplay muted loop></video>
 </div>
+
+- **6DOF TM Model and Control Simulation**
+  <div class="paper-box">
+  <div class="paper-box-image" style="display: flex; justify-content: space-between;">
+    <div style="margin-right: 10px;">
+      <div class="badge">6DOF TM Model</div>
+      <img src='/images/TM.png' alt="sym" width="100%">
+    </div>
+    <div>
+      <div class="badge">Displacement</div>
+      <img src='/images/位移曲线.png' alt="sym" width="100%">
+    </div>
+    <div>
+      <div class="badge">Attitude</div>
+      <img src='/images/姿态角度曲线.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
 <p><strong>Journal Articles</strong></p>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-       <div class="badge">Cooperative pointing control</div>
-       <img src='/images/animation1.2.gif' alt="sym" width="100%">
-      </div>
-    </div>
- <div class='paper-box-text' markdown="1">
-
-[Cooperative concurrent targeting for planar arrays of point sources](https://www.sciencedirect.com/science/article/pii/S000510982300523X)
-
-Pouria Ramazi , **Fan Zhang**, Ming Cao
-
-**Automatica, 2023** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-+  We have formulated the distributed concurrent targeting problems for planar arrays of point sources and proposed a novel coordination strategy to solve the problem, where the planar and solid geometry has been used to achieve the design and analysis. There are several possible future directions. One is to consider point sources that are distributed in the space rather than a plane. Another is to consider more detailed rotational dynamics of the point sources, such as double integrators. The target point may also be considered moving rather than fixed in the space.
- </div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-       <div class="badge">Robust Distributed Interval Observer</div>
-       <img src='/images/J22.png' alt="sym" width="100%">
-      </div>
-    </div>
- <div class='paper-box-text' markdown="1">
-
-[ A robust distributed interval observer for LTI systems](https://ieeexplore.ieee.org/document/9713996/figures#figures)
-
-Xiaoling Wang, Housheng Su, **Fan Zhang**, Guanrong Chen
-
-**ISA Transactions, 2023** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
- + A robust distributed interval observer is designed, which consists of a group of sensors communicating with others through a directed graph where each sensor can only access partial information from the output of the plant. The communication among the sensors together with the heterogeneity and undetectability of the sensors result in some stringent requirements on the robust distributed interval observer construction. To resolve these restrictions, the internally positive representation originated from a single agent system is introduced into the robust distributed interval observer. 
- </div>
-</div>
 
 [J29] **F. Zhang**, C.L. Jin*, W.G. Xia, X.M. Sun, H. Bai. Cooperative pointing control of coplanar multi-robot systems via distributed target estimation. Automatica, <em>submitted</em>, 2024
 
