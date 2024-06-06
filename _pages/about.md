@@ -37,17 +37,13 @@ My curent research interests include cooperative localization 8t guidance 8 cont
     <div class="badge">Cooperative pointing control</div>
     <img src='/images/AGIFp7.gif' alt="sym" style="width: 100%; height: auto;">
   </div>
-  <div style="flex: 1;">
-    <div class="badge">Cooperative pointing control</div>
-    <img src='/images/animation1.2.gif' alt="sym" style="width: 100%; height: auto;">
-  </div>
 </div>
 
 
 - **Enclosing Control for Multiagent Systems**
   - Distributed collaborative encirclement of unicycles
 
-  <div style="display: flex; justify-content: flex-start; ">
+<div class="paper-box-image" style="display: flex; justify-content: space-between;">
     <div style="margin-right: 1px;">
       <div class="badge"></div>
       <video src="/images/circle1.mp4" style="width: 100%; height: 280px;" autoplay muted loop></video>
@@ -56,7 +52,7 @@ My curent research interests include cooperative localization 8t guidance 8 cont
       <div class="badge"></div>
       <video src="/images/circle2.mp4" style="width: 100%; height: 280px;" autoplay muted loop></video>
     </div>
-  </div>
+</div>
 
 - **6DOF TM Model and Control Simulation**
 
