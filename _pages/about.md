@@ -30,7 +30,7 @@ My curent research interests include cooperative localization 8t guidance 8 cont
   - Cooperative concurrent targeting for planar arrays of point sources
   
 
- <div class="paper-box">
+
   <div class="paper-box-image" style="display: flex; justify-content: space-between;">
     <div style="margin-right: 10px;">
       <div class="badge">Distributed Target Positioning Control</div>
@@ -41,7 +41,7 @@ My curent research interests include cooperative localization 8t guidance 8 cont
       <img src='/images/AGIfp7.gif' alt="sym" width="100%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
+
 
 
 - **Enclosing Control for Multiagent Systems**
@@ -53,7 +53,7 @@ My curent research interests include cooperative localization 8t guidance 8 cont
 </div>
 
 - **6DOF TM Model and Control Simulation**
-  <div class="paper-box">
+
   <div class="paper-box-image" style="display: flex; justify-content: space-between;">
     <div style="margin-right: 10px;">
       <div class="badge">6DOF TM Model</div>
@@ -68,7 +68,7 @@ My curent research interests include cooperative localization 8t guidance 8 cont
       <img src='/images/姿态角度曲线.png' alt="sym" width="100%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
+
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
