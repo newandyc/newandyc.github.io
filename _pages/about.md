@@ -49,25 +49,26 @@ My curent research interests include cooperative localization 8t guidance 8 cont
  
 <div style="display: flex; justify-content: space-between;">
   <video src="/images/circle1.mp4" width="560" height="200" autoplay muted loop></video>
-  <video src="/images/circle_distances.mp4" width="560" height="200" autoplay muted loop></video>
+  <video src="/images/circle2.mp4" width="560" height="200" autoplay muted loop></video>
 </div>
 
 - **6DOF TM Model and Control Simulation**
 
-  <div class="paper-box-image" style="display: flex; justify-content: space-between;">
-    <div style="margin-right: 10px;">
-      <div class="badge">6DOF TM Model</div>
-      <img src='/images/TM.png' alt="sym" width="100%">
-    </div>
-    <div>
-      <div class="badge">Displacement</div>
-      <img src='/images/位移曲线.png' alt="sym" width="100%">
-    </div>
-    <div>
-      <div class="badge">Attitude</div>
-      <img src='/images/姿态角度曲线.png' alt="sym" width="100%">
-    </div>
+<div class="paper-box-image" style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;">
+    <div class="badge">6DOF TM 模型</div>
+    <img src='/images/TM.png' alt="sym" style="width: 100%; height: auto;">
   </div>
+  <div style="flex: 1; margin-right: 10px;">
+    <div class="badge">位移</div>
+    <img src='/images/位移曲线.png' alt="sym" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1;">
+    <div class="badge">姿态</div>
+    <img src='/images/姿态角度曲线.png' alt="sym" style="width: 100%; height: auto;">
+  </div>
+</div>
+
 
 
 <span class='anchor' id='publications'></span>
