@@ -32,11 +32,11 @@ My curent research interests include cooperative localization 8t guidance 8 cont
   <div class="paper-box-image" style="display: flex; justify-content: space-between;">
     <div style="margin-right: 10px;">
       <div class="badge">Distributed Target Positioning Control</div>
-      <img src='/images/AGIFp3.gif' alt="sym" width="100%">
+      <img src='/images/AGIFp3.gif' alt="sym" width="80%">
     </div>
     <div>
       <div class="badge">Cooperative pointing control</div>
-      <img src='/images/AGIFp7.gif' alt="sym" width="100%">
+      <img src='/images/AGIFp7.gif' alt="sym" width="80%">
     </div>
   </div>
 
@@ -48,11 +48,11 @@ My curent research interests include cooperative localization 8t guidance 8 cont
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
   <div style="margin-right: 10px;">
     <div class="badge"></div>
-    <video src="/images/circle1.mp4" style="width: 50%; height: 200px;" autoplay muted loop></video>
+    <video src="/images/circle1.mp4" style="width: 80%; height: 240px;" autoplay muted loop></video>
   </div>
   <div>
     <div class="badge"></div>
-    <video src="/images/circle2.mp4" style="width: 50%; height: 200px;" autoplay muted loop></video>
+    <video src="/images/circle2.mp4" style="width: 80%; height: 240px;" autoplay muted loop></video>
   </div>
 </div>
 
