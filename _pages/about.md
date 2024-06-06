@@ -28,17 +28,18 @@ My curent research interests include cooperative localization 8t guidance 8 cont
 - **Cooperative pointing control**
   - Cooperative pointing control of coplanar multi-robot systems via distributed target estimation
 
-  <div style="display: flex; justify-content: flex-start; width=800px">
-    <div style="display: flex; flex-direction: column; margin-right: 1px;">
-      <div class="badge">Target Location</div>
-      <img src='/images/AGIFp3.gif' alt="sym" width="70%">
-    </div>
-    <div style="display: flex; flex-direction: column; margin-left: 1px;">
-      <div class="badge">Cooperative Pointing</div>
-      <img src='/images/AGIFp7.gif' alt="sym" width="70%">
-    </div>
-  </div>
-
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+       <div class="badge">Cooperative pointing control</div>
+       <img src='/images/AGIFp3.gif' alt="sym" width="100%"></div>
+    </div>
+    <div>
+       <div class="badge">Cooperative pointing control</div>
+       <img src='/images/AGIFp3.gif' alt="sym" width="100%"></div>
+    </div>
+ <div class='paper-box-text' markdown="1"></div>
+</div>
 
 - **Enclosing Control for Multiagent Systems**
   - Distributed collaborative encirclement of unicycles
@@ -46,14 +47,13 @@ My curent research interests include cooperative localization 8t guidance 8 cont
   <div style="display: flex; justify-content: flex-start; ">
     <div style="margin-right: 1px;">
       <div class="badge"></div>
-      <video src="/images/circle1.mp4" style="width: 70%; height: 280px;" autoplay muted loop></video>
+      <video src="/images/circle1.mp4" style="width: 100%; height: 280px;" autoplay muted loop></video>
     </div>
     <div>
       <div class="badge"></div>
-      <video src="/images/circle2.mp4" style="width: 70%; height: 280px;" autoplay muted loop></video>
+      <video src="/images/circle2.mp4" style="width: 100%; height: 280px;" autoplay muted loop></video>
     </div>
   </div>
-
 
 - **6DOF TM Model and Control Simulation**
 
