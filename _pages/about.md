@@ -33,8 +33,8 @@ My curent research interests include cooperative localization 8t guidance 8 cont
   - Distributed collaborative encirclement of unicycles
  
 <div style="display: flex; justify-content: space-between;">
-  <video src="/images/circle.mp4" width="560" height="200" autoplay muted></video>
-  <video src="/images/circle_distances.mp4" width="560" height="200" autoplay muted></video>
+  <video src="/images/circle.mp4" width="560" height="200" autoplay muted loop></video>
+  <video src="/images/circle_distances.mp4" width="560" height="200" autoplay muted loop></video>
 </div>
 
 <span class='anchor' id='publications'></span>
