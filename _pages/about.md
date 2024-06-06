@@ -31,13 +31,13 @@ My curent research interests include cooperative localization 8t guidance 8 cont
   
 
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;">
+  <div style="flex: 1; margin-right: 5px;">
     <div class="badge">Distributed Target Positioning Control</div>
-    <img src='/images/AGIFp3.gif' alt="sym" style="width: 50%; height: auto;">
+    <img src='/images/AGIFp3.gif' alt="sym" style="width: 100%; height: 200px;">
   </div>
-  <div style="flex: 1; margin-right: 10px;">
+  <div style="flex: 1; margin-right: 5px;">
     <div class="badge">Cooperative pointing control</div>
-    <img src='/images/AGIFp7.gif' alt="sym" style="width: 50%; height: auto;">
+    <img src='/images/AGIFp7.gif' alt="sym" style="width: 100%; height: 200px;">
   </div>
 </div>
 
@@ -48,11 +48,11 @@ My curent research interests include cooperative localization 8t guidance 8 cont
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 10px;">
     <div class="badge"></div>
-    <video src="/images/circle1.mp4" style="width：50%；height: 320px;" autoplay muted loop></video>
+    <video src="/images/circle1.mp4" style="width：100%；height: 200px;" autoplay muted loop></video>
   </div>
   <div style="flex: 1; margin-right: 10px;">
     <div class="badge"></div>
-    <video src="/images/circle2.mp4" style="width：50%；height: 320px;"  autoplay muted loop></video>
+    <video src="/images/circle2.mp4" style="width：100%；height: 200px;"  autoplay muted loop></video>
   </div>
 </div>
 
