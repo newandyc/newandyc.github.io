@@ -29,10 +29,6 @@ My curent research interests include cooperative localization 8t guidance 8 cont
   - Cooperative pointing control of coplanar multi-robot systems via distributed target estimation
   - Cooperative concurrent targeting for planar arrays of point sources
   
-
-
-
-<div class="paper-box">
   <div class="paper-box-image" style="display: flex; justify-content: space-between;">
     <div style="margin-right: 10px;">
       <div class="badge">Distributed Target Positioning Control</div>
@@ -43,7 +39,7 @@ My curent research interests include cooperative localization 8t guidance 8 cont
       <img src='/images/AGIFp7.gif' alt="sym" width="100%">
     </div>
   </div>
- <div class='paper-box-text' markdown="1">
+
 
 - **Enclosing Control for Multiagent Systems**
   - Distributed collaborative encirclement of unicycles
@@ -52,11 +48,11 @@ My curent research interests include cooperative localization 8t guidance 8 cont
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
   <div style="margin-right: 10px;">
     <div class="badge"></div>
-    <video src="/images/circle1.mp4" style="width：100%；height: 200px;" autoplay muted loop></video>
+    <video src="/images/circle1.mp4" style="width: 50%; height: 200px;" autoplay muted loop></video>
   </div>
   <div>
     <div class="badge"></div>
-    <video src="/images/circle2.mp4" style="width：100%；height: 200px;"  autoplay muted loop></video>
+    <video src="/images/circle2.mp4" style="width: 50%; height: 200px;" autoplay muted loop></video>
   </div>
 </div>
 
