@@ -27,25 +27,25 @@ My curent research interests include cooperative localization 8t guidance 8 cont
 
 - **Cooperative pointing control**
   - Cooperative pointing control of coplanar multi-robot systems via distributed target estimation
-  - Cooperative concurrent targeting for planar arrays of point sources
   
-  <div class="paper-box-image" style="display: flex; justify-content: space-between;">
-    <div style="margin-right: 5px;">
-      <div class="badge">Target Location</div>
-      <img src='/images/AGIFp3.gif' alt="sym" width="65%">
-    </div>
-    <div>
-      <div class="badge">Cooperative Pointing </div>
-      <img src='/images/AGIFp7.gif' alt="sym" width="65%">
-    </div>
+<div class="paper-box-image" style="display: flex; justify-content: space-between;">
+  <div style="display: flex; flex-direction: column; margin-right: 0px;">
+    <div class="badge">Target Location</div>
+    <img src='/images/AGIFp3.gif' alt="sym" width="65%">
   </div>
+  <div style="display: flex; flex-direction: column; ">
+    <div class="badge">Cooperative Pointing</div>
+    <img src='/images/AGIFp7.gif' alt="sym" width="65%">
+  </div>
+</div>
+
 
 
 - **Enclosing Control for Multiagent Systems**
   - Distributed collaborative encirclement of unicycles
  
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
-  <div style="margin-right: 5px;">
+  <div style="margin-right: 0px;">
     <div class="badge"></div>
     <video src="/images/circle1.mp4" style="width: 100%; height: 280px;" autoplay muted loop></video>
   </div>
