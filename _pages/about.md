@@ -30,13 +30,13 @@ My curent research interests include cooperative localization 8t guidance 8 cont
   - Cooperative concurrent targeting for planar arrays of point sources
   
   <div class="paper-box-image" style="display: flex; justify-content: space-between;">
-    <div style="margin-right: 10px;">
-      <div class="badge">Distributed Target Positioning Control</div>
-      <img src='/images/AGIFp3.gif' alt="sym" width="80%">
+    <div style="margin-right: 5px;">
+      <div class="badge">Target Location</div>
+      <img src='/images/AGIFp3.gif' alt="sym" width="65%">
     </div>
     <div>
-      <div class="badge">Cooperative pointing control</div>
-      <img src='/images/AGIFp7.gif' alt="sym" width="80%">
+      <div class="badge">Cooperative Pointing </div>
+      <img src='/images/AGIFp7.gif' alt="sym" width="65%">
     </div>
   </div>
 
@@ -44,15 +44,14 @@ My curent research interests include cooperative localization 8t guidance 8 cont
 - **Enclosing Control for Multiagent Systems**
   - Distributed collaborative encirclement of unicycles
  
-
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
-  <div style="margin-right: 10px;">
+  <div style="margin-right: 5px;">
     <div class="badge"></div>
-    <video src="/images/circle1.mp4" style="width: 80%; height: 240px;" autoplay muted loop></video>
+    <video src="/images/circle1.mp4" style="width: 100%; height: 280px;" autoplay muted loop></video>
   </div>
   <div>
     <div class="badge"></div>
-    <video src="/images/circle2.mp4" style="width: 80%; height: 240px;" autoplay muted loop></video>
+    <video src="/images/circle2.mp4" style="width: 100%; height: 280px;" autoplay muted loop></video>
   </div>
 </div>
 
