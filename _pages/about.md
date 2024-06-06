@@ -30,19 +30,15 @@ My curent research interests include cooperative localization 8t guidance 8 cont
   - Cooperative concurrent targeting for planar arrays of point sources
   
 
-<div class='paper-box'>
-  <div class="paper-box-image" style="display: flex; justify-content: space-between;">
-    <div style="margin-right: 10px;">
-      <div class="badge">Distributed Target Positioning Control</div>
-      <img src='/images/AGIfp3.gif' alt="sym" width="100%">
-    </div>
-    <div>
-      <div class="badge">Cooperative pointing control</div>
-      <img src='/images/AGIfp7.gif' alt="sym" width="100%">
-    </div>
+<div class="paper-box-image" style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;">
+    <div class="badge">Distributed Target Positioning Control</div>
+    <img src='/images/AGIfp3.gif' alt="sym" style="width: 100%; height: auto;">
   </div>
- <div class='paper-box-text' markdown="1">
- </div>
+  <div style="flex: 1; margin-right: 10px;">
+    <div class="badge">Cooperative pointing control</div>
+    <img src='/images/AGIfp7.gif' alt="sym" style="width: 100%; height: auto;">
+  </div>
 </div>
 
 - **Enclosing Control for Multiagent Systems**
