@@ -30,7 +30,7 @@ My curent research interests include cooperative localization 8t guidance 8 cont
   - Cooperative concurrent targeting for planar arrays of point sources
   
 
-
+<div class='paper-box'>
   <div class="paper-box-image" style="display: flex; justify-content: space-between;">
     <div style="margin-right: 10px;">
       <div class="badge">Distributed Target Positioning Control</div>
@@ -41,30 +41,30 @@ My curent research interests include cooperative localization 8t guidance 8 cont
       <img src='/images/AGIfp7.gif' alt="sym" width="100%">
     </div>
   </div>
-
+ <div class='paper-box-text' markdown="1">
 
 
 - **Enclosing Control for Multiagent Systems**
   - Distributed collaborative encirclement of unicycles
  
 <div style="display: flex; justify-content: space-between;">
-  <video src="/images/circle1.mp4" width="560" height="200" autoplay muted loop></video>
-  <video src="/images/circle2.mp4" width="560" height="200" autoplay muted loop></video>
+  <video src="/images/circle1.mp4" style="width：100%；height: auto;" autoplay muted loop></video>
+  <video src="/images/circle2.mp4" style="width：100%；height: auto;"  autoplay muted loop></video>
 </div>
 
 - **6DOF TM Model and Control Simulation**
 
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 10px;">
-    <div class="badge">6DOF TM 模型</div>
+    <div class="badge">6DOF TM Model</div>
     <img src='/images/TM.png' alt="sym" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1; margin-right: 10px;">
-    <div class="badge">位移</div>
+    <div class="badge">Displacement</div>
     <img src='/images/位移曲线.png' alt="sym" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
-    <div class="badge">姿态</div>
+    <div class="badge">Attitude</div>
     <img src='/images/姿态角度曲线.png' alt="sym" style="width: 100%; height: auto;">
   </div>
 </div>
