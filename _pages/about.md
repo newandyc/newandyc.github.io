@@ -28,7 +28,7 @@ My curent research interests include cooperative localization 8t guidance 8 cont
 - **Cooperative pointing control**
   - Cooperative pointing control of coplanar multi-robot systems via distributed target estimation
 
-  <div style="display: flex; justify-content: flex-start; "object-fit: cover;>
+  <div style="display: flex; justify-content: flex-start; ">
     <div style="display: flex; flex-direction: column; margin-right: 1px;">
       <div class="badge">Target Location</div>
       <img src='/images/AGIFp3.gif' alt="sym" width="80%">
