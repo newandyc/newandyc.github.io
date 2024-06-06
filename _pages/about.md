@@ -42,14 +42,22 @@ My curent research interests include cooperative localization 8t guidance 8 cont
     </div>
   </div>
  <div class='paper-box-text' markdown="1">
-
+ </div>
+</div>
 
 - **Enclosing Control for Multiagent Systems**
   - Distributed collaborative encirclement of unicycles
  
-<div style="display: flex; justify-content: space-between;">
-  <video src="/images/circle1.mp4" style="width：100%；height: auto;" autoplay muted loop></video>
-  <video src="/images/circle2.mp4" style="width：100%；height: auto;"  autoplay muted loop></video>
+
+<div class="paper-box-image" style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;">
+    <div class="badge"></div>
+    <video src="/images/circle1.mp4" style="width：100%；height: auto;" autoplay muted loop></video>
+  </div>
+  <div style="flex: 1; margin-right: 10px;">
+    <div class="badge"></div>
+    <video src="/images/circle2.mp4" style="width：100%；height: auto;"  autoplay muted loop></video>
+  </div>
 </div>
 
 - **6DOF TM Model and Control Simulation**
