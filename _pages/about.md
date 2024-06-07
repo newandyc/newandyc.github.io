@@ -219,9 +219,9 @@ ___Current master students___
 ___
 ___Former master students___
 
-2021.9 - 2024.6: ZhiMing Yang (Ph.D. student, SYSU)
-
 2021.9 - 2024.6: HongJie Fang (Control Engineer, Shenzhen Gudsen Technology, China)
+
+2021.9 - 2024.6: ZhiMing Yang (Ph.D. student, SYSU)
 
 2020.9 - 2022.6: Xin Deng (Product Manager, CaiNiao Network Technology, HangZhou, China)
 
