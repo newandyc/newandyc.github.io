@@ -46,11 +46,11 @@ ___
 - **Fencing Control of Multi-Robot Systems**
 
 <div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 2px;  margin-left: 0px;">
-      <video src="/images/circle.mp4" style="width:100%; height: auto; " autoplay muted loop></video>
+  <div style="flex: 1; margin-right: 2px;  margin-left: -15px;">
+      <video src="/images/circle.mp4" style="width:100%; height: 160px; " autoplay muted loop></video>
    </div>
-  <div style="flex: 1; margin-left: -15px;">
-      <img src='/images/circle_full.jpg' alt="sym" style="width: 90%; height: auto;">
+  <div style="flex: 1; margin-left: -25px;">
+      <img src='/images/circle_full.jpg' alt="sym" style="width: 90%; height: 160px;">
     </div>
   </div>
 
