@@ -49,7 +49,7 @@ ___
   <div style="flex: 1; margin-right: 0px;  margin-left: -50px;">
       <video src="/images/circle.mp4" style="width:100%; height: 160px; " autoplay muted loop></video>
    </div>
-  <div style="flex: 1; margin-left: -45px;">
+  <div style="flex: 1; margin-left: -50px;">
       <img src='/images/circle_full.jpg' alt="sym" style="width: 90%; height: 160px;">
     </div>
   </div>
