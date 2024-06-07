@@ -30,7 +30,7 @@ ___
 - **Fencing Control of Multi-Robot Systems**
 
 <div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
-  <div style="flex: 1; margin-left: -98px;">
+  <div style="flex: 1; margin-left: -96px;">
       <video src="/images/circle.mp4" style="width:100%; height: 160px; " autoplay muted loop></video>
    </div>
   <div style="flex: 1; margin-left: -98px;">
