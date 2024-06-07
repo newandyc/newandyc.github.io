@@ -27,7 +27,18 @@ I received double Ph.D. degrees from Harbin Institute of Technology, China, and 
 My current research interests include cooperative localization & guidance & control, enhanced observer design, LMI techniques, SDRE techniques, and their applications in multi-robot systems.
 
 ___
+- **Fencing Control of Multi-Robot Systems**
 
+<div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 0px;  margin-left: -50px;">
+      <video src="/images/circle.mp4" style="width:100%; height: 160px; " autoplay muted loop></video>
+   </div>
+  <div style="flex: 1; margin-left: -50px;">
+      <img src='/images/circle_full.jpg' alt="sym" style="width: 90%; height: 160px;">
+    </div>
+  </div>
+
+___
 - **Cooperative Pointing Control of Multi-Robot Systems**
 
 <div class="paper-box-image" style="display: flex; width: 800px; height:auto; justify-content: space-between;">
@@ -42,20 +53,6 @@ ___
 </div>
 
 ___
-
-- **Fencing Control of Multi-Robot Systems**
-
-<div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 0px;  margin-left: -50px;">
-      <video src="/images/circle.mp4" style="width:100%; height: 160px; " autoplay muted loop></video>
-   </div>
-  <div style="flex: 1; margin-left: -50px;">
-      <img src='/images/circle_full.jpg' alt="sym" style="width: 90%; height: 160px;">
-    </div>
-  </div>
-
-___
-
 - **6DOF High-Precision Control of TM for Gravitational Wave Detection**
 
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
@@ -146,13 +143,11 @@ __Journal Articles__
 [J1] S.J. Zhang*, X.B. Cao, F. Zhang, L. He. Monocular vision-based iterative pose estimation algorithm from corresponding feature points. Science China Information Sciences, 53(8):1682-1696, August 2010
 
 ___
-
 __Book Chapters__
 
 [B1] J.J. Fu, G.H. Wen, Y.J. Xu, A. Zemouche, F. Zhang. Resilient cooperative control of input constrained networked cyber-physical systems. Security and Resilience in Cyber-Physical Systems: Detection, Estimation and Control, Springer, 2022
 
 ___
-
 __Conference Proceedings__
 
 [C11] S.Y. Meng, F.W. Meng, F. Zhang, M. Alma, M. Haddad, A. Zemouche. Nonlinear observer design for vehicle lateral load transfer ratio estimation. American Control Conference, _to appear_, Toronto, Canada, July 8-12, 2024.
