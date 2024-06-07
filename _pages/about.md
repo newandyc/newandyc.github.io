@@ -25,6 +25,19 @@ I received double Ph.D. degrees from Harbin Institute of Technology, China, and 
 
 My current research interests include cooperative localization & guidance & control, enhanced observer design, LMI techniques, SDRE techniques, and their applications in multi-robot systems.
 
+<div class='paper-box'>
+<div class="paper-box-image" style="display: flex; width: 600px; height:auto; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 15px;  margin-left: 35px;">
+    <div class="badge">Target Location</div>
+    <img src='/images/AGIFp3.gif' alt="sym" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1; margin-right: 10px;">
+    <div class="badge">Cooperative Pointing</div>
+    <img src='/images/AGIFp7.gif' alt="sym" style="width: 100%; height: auto;">
+  </div>
+</div>
+</div>
+
 # Publications
 __Journal Articles__
 
