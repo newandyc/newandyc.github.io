@@ -28,7 +28,7 @@ My current research interests include cooperative localization & guidance & cont
 <div class='paper-box'>
 <div class="paper-box-image" style="display: flex; width: 600px; height:auto; justify-content: space-between;">
   <div style="flex: 1; margin-right: 15px;  margin-left: 35px;">
-    <div class="badge">Target Location</div>
+    <div class="badge">Target Localization</div>
     <img src='/images/AGIFp3.gif' alt="sym" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1; margin-right: 10px;">
