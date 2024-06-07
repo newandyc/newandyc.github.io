@@ -52,7 +52,7 @@ ___
    </div>
   <div style="flex: 1; margin-right: 10px;">
       <div class="badge">Encirclement</div>
-      <video src="/images/circle2.mp4" style="width: 100%; height:auto; " autoplay muted loop></video>
+      <img src='/images/circle_full.jpeg' alt="sym" style="width: 100%; height: auto;">
     </div>
   </div>
 </div>
