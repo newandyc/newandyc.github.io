@@ -59,10 +59,10 @@ ___
 - **6DOF High-Precision Control of TM for Gravitational Wave Detection**
 
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;margin-left: 30px;">
+  <div style="flex: 1; margin-right: 0px;margin-left: 0px;">
     <img src='/images/TM.png' alt="sym" style="width: 100%; height: auto;">
   </div>
-  <div style="flex: 1; margin-right: 10px;">
+  <div style="flex: 1; margin-right: 0px;">
     <img src='/images/位移曲线.png' alt="sym" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
@@ -71,10 +71,10 @@ ___
 </div>
 
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;margin-left: 30px;">
+  <div style="flex: 1; margin-right: 0px;margin-left: 0px;">
     <img src='/images/控制曲线.png' alt="sym" style="width: 100%; height: auto;">
   </div>
-  <div style="flex: 1; margin-right: 10px;">
+  <div style="flex: 1; margin-right: 0px;">
     <img src='/images/速度曲线.png' alt="sym" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
