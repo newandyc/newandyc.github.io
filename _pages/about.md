@@ -25,6 +25,11 @@ I received double Ph.D. degrees from Harbin Institute of Technology, China, and 
 
 My current research interests include cooperative localization & guidance & control, enhanced observer design, LMI techniques, SDRE techniques, and their applications in multi-robot systems.
 
+___
+
+- **Cooperative pointing control**
+  - Cooperative pointing control of multi-robot systems via distributed target estimation
+
 <div class='paper-box'>
 <div class="paper-box-image" style="display: flex; width: 600px; height:auto; justify-content: space-between;">
   <div style="flex: 1; margin-right: 15px;  margin-left: 35px;">
@@ -37,6 +42,44 @@ My current research interests include cooperative localization & guidance & cont
   </div>
 </div>
 </div>
+
+___
+
+- **Enclosing Control for Multiagent Systems**
+  - Distributed collaborative encirclement of unicycles
+
+<div class='paper-box'>
+<div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 2px;  margin-left: 35px;">
+     <div class="badge">Encirclement</div>
+      <video src="/images/circle1.mp4" style="width:100%; height: auto; " autoplay muted loop></video>
+   </div>
+  <div style="flex: 1; margin-right: 10px;">
+      <div class="badge">Encirclement</div>
+      <video src="/images/circle2.mp4" style="width: 100%; height:auto; " autoplay muted loop></video>
+    </div>
+  </div>
+</div>
+
+___
+
+- **6DOF TM Model and Control Simulation**
+
+<div class="paper-box-image" style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;margin-left: 30px;">
+    <div class="badge">6DOF TM Model</div>
+    <img src='/images/TM.png' alt="sym" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1; margin-right: 10px;">
+    <div class="badge">Displacement</div>
+    <img src='/images/位移曲线.png' alt="sym" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1;">
+    <div class="badge">Attitude</div>
+    <img src='/images/姿态角度曲线.png' alt="sym" style="width: 100%; height: auto;">
+  </div>
+</div>
+
 
 # Publications
 __Journal Articles__
