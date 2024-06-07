@@ -60,7 +60,7 @@ ___
 
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 10px;margin-left: 30px;">
-    <div class="badge">6DOF TM Model</div>
+    <div class="badge">TM</div>
     <img src='/images/TM.png' alt="sym" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1; margin-right: 10px;">
@@ -69,7 +69,22 @@ ___
   </div>
   <div style="flex: 1;">
     <div class="badge">Attitude</div>
-    <img src='/images/姿态角度曲线.png' alt="sym" style="width: 100%; height: auto;">
+    <img src='/images/姿态曲线.png' alt="sym" style="width: 100%; height: auto;">
+  </div>
+</div>
+
+<div class="paper-box-image" style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;margin-left: 30px;">
+    <div class="badge">6DOF TM Model</div>
+    <img src='/images/控制曲线.png' alt="sym" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1; margin-right: 10px;">
+    <div class="badge">Displacement</div>
+    <img src='/images/速度曲线.png' alt="sym" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1;">
+    <div class="badge">Attitude</div>
+    <img src='/images/角速度曲线.png' alt="sym" style="width: 100%; height: auto;">
   </div>
 </div>
 
