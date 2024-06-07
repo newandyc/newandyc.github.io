@@ -30,7 +30,7 @@ ___
 - **Fencing Control of Multi-Robot Systems**
 
 <div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
-  <div style="flex: 1; margin-left: -95px;">
+  <div style="flex: 1; margin-left: -100px;">
       <video src="/images/circle.mp4" style="width:100%; height: 160px; " autoplay muted loop></video>
    </div>
   <div style="flex: 1; margin-left: -100px;">
@@ -42,7 +42,7 @@ ___
 - **Cooperative Pointing Control of Multi-Robot Systems**
 
 <div class="paper-box-image" style="display: flex; width: 800px; height:auto; justify-content: space-between;">
-  <div style="flex: 1;  margin-left: 20px;">
+  <div style="flex: 1;  margin-left: 22px;">
     <div class="badge">Target Localization</div>
     <img src='/images/AGIFp3.gif' alt="sym" style="width: 100%; height: auto;">
   </div>
