@@ -8,7 +8,7 @@ main:
     url: "/#Publications"
 
   - title: "Projects"
-    url: "/#projects"
+    url: "/#Projects"
     
   - title: "ProfessionalService"
     url: "/#Professional-Service"
