@@ -24,7 +24,7 @@ I received double Ph.D. degrees from Harbin Institute of Technology, China, and 
 <span class='anchor' id='Research-Interests'></span>
 # 💡 Research Interests
 
-My current research interests include cooperative localization & guidance & control, enhanced observer design, LMI techniques, SDRE techniques, and their applications in multi-robot systems.
+My current research interests include cooperative localization/guidance/control, enhanced observer design, LMI techniques, SDRE techniques, and their applications in multi-robot systems.
 
 ___
 - **Fencing Control of Multi-Robot Systems**
