@@ -57,7 +57,7 @@ ___
 
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 0px;margin-left: 0px;">
-    <img src='/images/TM.png' alt="sym" style="width: 100%; height: auto;">
+    <img src='/images/TM.png' alt="sym" style="width: 90%; height: auto;">
   </div>
   <div style="flex: 1; margin-right: 0px;margin-left: -20px;">
     <img src='/images/位移曲线.png' alt="sym" style="width: 100%; height: auto;">
