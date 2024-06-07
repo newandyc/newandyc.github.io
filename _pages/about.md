@@ -180,10 +180,12 @@ __Conference Proceedings__
 <span class='anchor' id='Professional-Service'></span>
 # 💼 Professional Service
 - Associate Editor: European Journal of Control, IET Control Theory & Applications
+  
+- Conference Editorial Board: CDC, ACC, CCTA
 
 - Program Committee Member: 20th International Conference on Control, Automation and Systems, BEXCO, Busan, Korea, October 13-16, 2020
 
-- Reviewer: IEEE Transactions on Automatic Control, Automatica, IEEE Transactions on Control of Network Systems, Journal of Robust and Nonlinear Control, Systems & Control Letters, International Journal of Control, European Journal of Control, Nonlinear Analysis: Hybrid Systems, IEEE Transactions on Cybernetics, IEEE Transactions on Systems, Man and Cybernetics: Systems, Journal of The Franklin Institute, Asian Journal of Control, IEEE Control Systems Letters, Optimal Control Applications and Methods, International Journal of Adaptive Control and Signal Processing, IEEE Systems Journal, IEEE Internet of Things Journal, IEEE Conference on Decision and Control, IFAC World Congress, American Control Conference, European Control Conference, Asian Control Conference, IEEE International Conference on Control & Automation, Chinese Control Conference, Chinese Control and Decision Conference
+- Reviewer: IEEE Transactions on Automatic Control, Automatica, IEEE Transactions on Control of Network Systems, Journal of Robust and Nonlinear Control, Systems & Control Letters, International Journal of Control, European Journal of Control, Nonlinear Analysis: Hybrid Systems, IEEE Transactions on Cybernetics, IEEE Transactions on Systems, Man and Cybernetics: Systems, Journal of The Franklin Institute, Asian Journal of Control, IEEE Control Systems Letters, Optimal Control Applications and Methods, International Journal of Adaptive Control and Signal Processing, IEEE Systems Journal, IEEE Internet of Things Journal
 
 
 <span class='anchor' id='Courses'></span>
