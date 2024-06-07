@@ -42,7 +42,7 @@ ___
 - **Cooperative Pointing Control of Multi-Robot Systems**
 
 <div class="paper-box-image" style="display: flex; width: 800px; height:auto; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 0px;  margin-left: 0px;">
+  <div style="flex: 1; margin-right: 15px;  margin-left: 0px;">
     <div class="badge">Target Localization</div>
     <img src='/images/AGIFp3.gif' alt="sym" style="width: 100%; height: auto;">
   </div>
@@ -59,10 +59,10 @@ ___
   <div style="flex: 1; margin-right: 0px;margin-left: 0px;">
     <img src='/images/TM.png' alt="sym" style="width: 90%; height: auto;">
   </div>
-  <div style="flex: 1; margin-right: 0px;margin-left: -35px;">
+  <div style="flex: 1; margin-right: 0px;margin-left: -32px;">
     <img src='/images/位移.png' alt="sym" style="width: 100%; height: auto;">
   </div>
-  <div style="flex: 1;margin-right: 0px;margin-left: -35px;">
+  <div style="flex: 1;margin-right: 0px;margin-left: -32px;">
     <img src='/images/角度.png' alt="sym" style="width: 100%; height: auto;">
   </div>
 </div>
@@ -71,10 +71,10 @@ ___
   <div style="flex: 1; margin-right: 0px;margin-left: 0px;">
     <img src='/images/控制电压.png' alt="sym" style="width: 100%; height: auto;">
   </div>
-  <div style="flex: 1; margin-right: 0px;margin-left: -35px;">
+  <div style="flex: 1; margin-right: 0px;margin-left: -32px;">
     <img src='/images/速度.png' alt="sym" style="width: 100%; height: auto;">
   </div>
-  <div style="flex: 1;margin-right: 0px;margin-left: -35px;">
+  <div style="flex: 1;margin-right: 0px;margin-left: -32px;">
     <img src='/images/角速度.png' alt="sym" style="width: 100%; height: auto;">
   </div>
 </div>
