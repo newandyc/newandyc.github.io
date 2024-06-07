@@ -61,7 +61,7 @@ ___
 
 ___
 
-- **6DOF High-Precision Control of TM for Gravitational Waves**
+- **6DOF High-Precision Control of TM for Gravitational Wave Detection**
 
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 10px;margin-left: 30px;">
