@@ -60,22 +60,22 @@ ___
     <img src='/images/TM.png' alt="sym" style="width: 90%; height: auto;">
   </div>
   <div style="flex: 1; margin-right: 0px;margin-left: -20px;">
-    <img src='/images/位移曲线.png' alt="sym" style="width: 100%; height: auto;">
+    <img src='/images/位移.png' alt="sym" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;margin-right: 0px;margin-left: -20px;">
-    <img src='/images/姿态曲线.png' alt="sym" style="width: 100%; height: auto;">
+    <img src='/images/角度.png' alt="sym" style="width: 100%; height: auto;">
   </div>
 </div>
 
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 0px;margin-left: 0px;">
-    <img src='/images/控制曲线.png' alt="sym" style="width: 100%; height: auto;">
+    <img src='/images/控制电压.png' alt="sym" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1; margin-right: 0px;margin-left: -20px;">
-    <img src='/images/速度曲线.png' alt="sym" style="width: 100%; height: auto;">
+    <img src='/images/速度.png' alt="sym" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;margin-right: 0px;margin-left: -20px;">
-    <img src='/images/角速度曲线.png' alt="sym" style="width: 100%; height: auto;">
+    <img src='/images/角速度.png' alt="sym" style="width: 100%; height: auto;">
   </div>
 </div>
 
