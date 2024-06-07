@@ -52,7 +52,7 @@ ___
    </div>
   <div style="flex: 1; margin-right: 10px;">
       <div class="badge">Encirclement</div>
-      <img src='/images/circle_full.jpeg' alt="sym" style="width: 100%; height: auto;">
+      <img src='/images/circle_full.jpg' alt="sym" style="width: 100%; height: auto;">
     </div>
   </div>
 </div>
