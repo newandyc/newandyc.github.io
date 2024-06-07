@@ -27,8 +27,7 @@ My current research interests include cooperative localization & guidance & cont
 
 ___
 
-- **Cooperative pointing control**
-  - Cooperative pointing control of multi-robot systems via distributed target estimation
+- **Cooperative Pointing Control of Multi-Robot Systems**
 
 <div class='paper-box'>
 <div class="paper-box-image" style="display: flex; width: 600px; height:auto; justify-content: space-between;">
@@ -45,8 +44,7 @@ ___
 
 ___
 
-- **Enclosing Control for Multiagent Systems**
-  - Distributed collaborative encirclement of unicycles
+- **Fencing Control of Multi-Robot Systems**
 
 <div class='paper-box'>
 <div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
@@ -63,7 +61,7 @@ ___
 
 ___
 
-- **6DOF TM Model and Control Simulation**
+- **6DOF High-Precision Control of TM for Gravitational Waves**
 
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 10px;margin-left: 30px;">
