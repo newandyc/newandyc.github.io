@@ -29,8 +29,8 @@ My curent research interests include cooperative localization 8t guidance 8 cont
   - Cooperative pointing control of coplanar multi-robot systems via distributed target estimation
 
 <div class='paper-box'>
-<div class="paper-box-image" style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 15px;">
+<div class="paper-box-image" style="display: flex; width: 600px; height:auto; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 15px;  margin-left: 35px;">
     <div class="badge">Target Location</div>
     <img src='/images/AGIFp3.gif' alt="sym" style="width: 100%; height: auto;">
   </div>
@@ -45,22 +45,23 @@ My curent research interests include cooperative localization 8t guidance 8 cont
   - Distributed collaborative encirclement of unicycles
 
 <div class='paper-box'>
-<div class="paper-box-image" style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; margin-right: 15px;">
-      <div class="badge"></div>
-      <video src="/images/circle1.mp4" style="width: 100%; height: 280px;" autoplay muted loop></video>
+<div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 5px;  margin-left: 35px;">
+     <div class="badge">Encirclement</div>
+      <video src="/images/circle.mp4" style="width:100%; height: auto; position: relative; left: -20px;" autoplay muted loop></video>
     </div>
-    <div style="flex: 1; margin-right: 10px;">
-      <div class="badge"></div>
-      <video src="/images/circle2.mp4" style="width: 100%; height: 280px;" autoplay muted loop></video>
+  <div style="flex: 1; margin-right: 10px;">
+      <div class="badge">Encirclement</div>
+      <video src="/images/circle_distances.mp4" style="width: 100%; height:auto; position: relative; left: -20px;" autoplay muted loop></video>
     </div>
+  </div>
 </div>
-</div>
+
 
 - **6DOF TM Model and Control Simulation**
 
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;">
+  <div style="flex: 1; margin-right: 10px;margin-left: 30px;">
     <div class="badge">6DOF TM Model</div>
     <img src='/images/TM.png' alt="sym" style="width: 100%; height: auto;">
   </div>
