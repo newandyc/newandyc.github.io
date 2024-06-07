@@ -48,11 +48,11 @@ My curent research interests include cooperative localization 8t guidance 8 cont
 <div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
   <div style="flex: 1; margin-right: 2px;  margin-left: 35px;">
      <div class="badge">Encirclement</div>
-      <video src="/images/circle.mp4" style="width:100%; height: auto; " autoplay muted loop></video>
+      <video src="/images/circle1.mp4" style="width:100%; height: auto; " autoplay muted loop></video>
    </div>
   <div style="flex: 1; margin-right: 10px;">
       <div class="badge">Encirclement</div>
-      <video src="/images/circle_distances.mp4" style="width: 100%; height:auto; " autoplay muted loop></video>
+      <video src="/images/circle2.mp4" style="width: 100%; height:auto; " autoplay muted loop></video>
     </div>
   </div>
 </div>
