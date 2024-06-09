@@ -53,7 +53,7 @@ ___
 </div>
 
 ___
-- **High-Precision 6DOF TM Control for Gravitational Wave Detection**
+- **6DOF TM Control for TianQin Plan**
 
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 0px;margin-left: 0px;">
