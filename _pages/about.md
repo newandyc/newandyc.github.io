@@ -53,7 +53,7 @@ ___
 </div>
 
 ___
-- **6DOF TM Control for TianQin Plan**
+- **6DOF TM Control for TianQin**
 
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 0px;margin-left: 0px;">
