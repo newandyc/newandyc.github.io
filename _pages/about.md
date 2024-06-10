@@ -34,7 +34,7 @@ ___
       <video src="/images/circle.mp4" style="width:100%; height: 160px; " autoplay muted loop></video>
    </div>
   <div style="flex: 1; margin-left: -98px;">
-      <img src='/images/circle_full.jpg' alt="sym" style="width: 95%; height: 160px;">
+      <img src='/images/circle_full.jpg' alt="sym" style="width: 90%; height: 160px;">
     </div>
   </div>
 
