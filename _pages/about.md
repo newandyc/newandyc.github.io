@@ -33,7 +33,7 @@ ___
   <div style="flex: 1; margin-left: -40px;">
       <img src='/images/circle_200.gif' alt="sym" style="width: 100%; height: auto;">
    </div>
-  <div style="flex: 1; margin-left: -100px;">
+  <div style="flex: 1; margin-left: -90px;">
       <img src='/images/circle_slices_200.png' alt="sym" style="width: 100%; height: auto;">
     </div>
   </div>
