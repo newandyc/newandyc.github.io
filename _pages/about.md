@@ -30,10 +30,10 @@ ___
 - **Cooperative Fencing Control of Multi-Robot Systems**
 
 <div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
-  <div style="flex: 1; margin-left: -35px;">
+  <div style="flex: 1; margin-left: -40px;">
       <img src='/images/circle_200.gif' alt="sym" style="width: 100%; height: auto;">
    </div>
-  <div style="flex: 1; margin-left: -30px;">
+  <div style="flex: 1; margin-left: -40px;">
       <img src='/images/circle_slices_200.png' alt="sym" style="width: 100%; height: auto;">
     </div>
   </div>
