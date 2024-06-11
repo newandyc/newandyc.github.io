@@ -31,7 +31,7 @@ ___
 
 <div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
   <div style="flex: 1; margin-left: 0px;">
-      <video src="/images/circle_100.gif" style="width: 100%; height: auto; " autoplay muted loop></video>
+      <img src='/images/circle_100.gif' alt="sym" style="width: 100%; height: auto;">
    </div>
   <div style="flex: 1; margin-left: 0px;">
       <img src='/images/circle_full.png' alt="sym" style="width: 100%; height: auto;">
