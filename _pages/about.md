@@ -31,10 +31,10 @@ ___
 
 <div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
   <div style="flex: 1; margin-left: -35px;">
-      <img src='/images/circle_100.gif' alt="sym" style="width: 100%; height: 90%;">
+      <img src='/images/circle_200.gif' alt="sym" style="width: 100%; height: 90%;">
    </div>
   <div style="flex: 1; margin-left: -30px;">
-      <img src='/images/circle_full.png' alt="sym" style="width: 100%; height: 80%;">
+      <img src='/images/circle_slices_200.png' alt="sym" style="width: 100%; height: 80%;">
     </div>
   </div>
 
