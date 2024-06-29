@@ -2,7 +2,7 @@
 main:
 
   - title: "ResearchInterests"
-    url: "/#Research-Interests"
+    url: "/#ResearchInterests"
  
   - title: "Publications"
     url: "/#Publications"
@@ -11,13 +11,13 @@ main:
     url: "/#Projects"
     
   - title: "ProfessionalService"
-    url: "/#Professional-Service"
+    url: "/#ProfessionalService"
     
   - title: "Courses"
     url: "/#Courses"
 
   - title: "GroupMembers"
-    url: "/#Group-Members"
+    url: "/#GroupMembers"
 
  - title: "Links"
     url: "/#Links"
