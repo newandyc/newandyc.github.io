@@ -21,7 +21,7 @@ I received double Ph.D. degrees from Harbin Institute of Technology, China, and 
 
 ***Postdoc openings are always available largely in systems and control !***
 
-<span class='anchor' id='Research-Interests'></span>
+<span class='anchor' id='ResearchInterests'></span>
 # 💡 Research Interests
 
 My current research interests include cooperative localization/guidance/control, enhanced observer design, LMI techniques, SDRE techniques, and their applications in multi-robot systems.
@@ -181,7 +181,7 @@ __Conference Proceedings__
 2018.1 - 2020.12, Cooperative Control of Lur'e Networks Over Dynamic Topologies
 
 
-<span class='anchor' id='Professional-Service'></span>
+<span class='anchor' id='ProfessionalService'></span>
 # 💼 Professional Service
 - Associate Editor: European Journal of Control, IET Control Theory & Applications
   
@@ -198,7 +198,7 @@ __Conference Proceedings__
 - Postgraduate Courses: Robust and Adaptive Control
 
 
-<span class='anchor' id='Group-Members'></span>
+<span class='anchor' id='GroupMembers'></span>
 # 🧑‍ Group Members
 ___Current Postdocs___
 
