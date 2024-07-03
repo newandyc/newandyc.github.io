@@ -28,14 +28,18 @@ My curent research interests include cooperative localization 8t guidance 8 cont
 - **Cooperative pointing control**
   - Cooperative pointing control of coplanar multi-robot systems via distributed target estimation
 
-<div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
-  <div style="flex: 1; margin-left: -45px;">
-      <img src='/images/circle_200.gif' alt="sym" style="width: 100%; height: auto;">
-   </div>
-  <div style="flex: 1; margin-left: -80px;">
-      <img src='/images/circle_slices_200.png' alt="sym" style="width: 90%; height: 100%;">
-    </div>
+ <div class='paper-box'>
+  <div class="paper-box-image" style="display: flex; width: 600px; height:auto; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 15px;  margin-left: 35px;">
+    <div class="badge">Target Location</div>
+    <img src='/images/AGIFp3.gif' alt="sym" style="width: 100%; height: auto;">
   </div>
+  <div style="flex: 1; margin-right: 10px;">
+    <div class="badge">Cooperative Pointing</div>
+    <img src='/images/AGIFp7.gif' alt="sym" style="width: 100%; height: auto;">
+  </div>
+</div>
+
 
 - **Enclosing Control for Multiagent Systems**
   - Distributed collaborative encirclement of unicycles
@@ -53,6 +57,14 @@ My curent research interests include cooperative localization 8t guidance 8 cont
   </div>
 </div>
 
+<div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
+  <div style="flex: 1; margin-left: -45px;">
+      <img src='/images/circle_200.gif' alt="sym" style="width: 100%; height: auto;">
+   </div>
+  <div style="flex: 1; margin-left: -80px;">
+      <img src='/images/circle_slices_200.png' alt="sym" style="width: 90%; height: 100%;">
+    </div>
+  </div>
 
 - **6DOF TM Model and Control Simulation**
 
@@ -276,3 +288,7 @@ My curent research interests include cooperative localization 8t guidance 8 cont
 
 <p>2022.11 - 2023.5: YuAng Ke (master student, SYSU), MingShuai Wu (master student, SYSU), Ke Xu (master student, PKU)</p>
 
+<span class='anchor' id='UsefulLinks'></span>
+#  Useful Links
+
+<https://ieeecss.org/conferences/all>
