@@ -25,48 +25,56 @@ I received double Ph.D. degrees from Harbin Institute of Technology, China, and 
 # 💡 Research Interests
 My curent research interests include cooperative localization 8t guidance 8 control, enhanced observer design, LMl techniques, sbREtechniques, and their applications in multi-robot systems.
 
-- **Cooperative pointing control**
-  - Cooperative pointing control of coplanar multi-robot systems via distributed target estimation
 
- <div class='paper-box'>
-  <div class="paper-box-image" style="display: flex; width: 600px; height:auto; justify-content: space-between;">
-    <div style="flex: 1; margin-right: 15px;  margin-left: 35px;">
-    <div class="badge">Target Location</div>
+- **Cooperative Fencing Control of Multi-Robot Systems**
+
+<div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
+  <div style="flex: 1; margin-left: -45px;">
+      <img src='/images/circle_200.gif' alt="sym" style="width: 100%; height: auto;">
+   </div>
+  <div style="flex: 1; margin-left: -80px;">
+      <img src='/images/circle_slices_200.png' alt="sym" style="width: 90%; height: 100%;">
+  </div>
+</div>
+
+
+- **Cooperative Pointing Control of Multi-Robot Systems**
+  
+<div class="paper-box-image" style="display: flex; width: 800px; height:auto; justify-content: space-between;">
+  <div style="flex: 1;  margin-left: 20px;">
+    <div class="badge">Target Localization</div>
     <img src='/images/AGIFp3.gif' alt="sym" style="width: 100%; height: auto;">
   </div>
-  <div style="flex: 1; margin-right: 10px;">
+  <div style="flex: 1; margin-left: 0px;">
     <div class="badge">Cooperative Pointing</div>
     <img src='/images/AGIFp7.gif' alt="sym" style="width: 100%; height: auto;">
   </div>
 </div>
 
 
-- **Enclosing Control for Multiagent Systems**
-  - Distributed collaborative encirclement of unicycles
+- **6DOF TM Control for TianQin**
 
-<div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
-  <div style="flex: 1; margin-left: -45px;">
-      <img src='/images/circle_200.gif' alt="sym" style="width: 100%; height: auto;">
+<div class="paper-box-image" style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 0px;margin-left: 0px;">
+    <img src='/images/TM.png' alt="sym" style="width: 90%; height: auto;">
   </div>
-  <div style="flex: 1; margin-left: -80px;">
-      <img src='/images/circle_slices_200.png' alt="sym" style="width: 90%; height: 100%;">
+  <div style="flex: 1; margin-right: 0px;margin-left: -33px;">
+    <img src='/images/位移.png' alt="sym" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1;margin-right: 0px;margin-left: -33px;">
+    <img src='/images/角度.png' alt="sym" style="width: 100%; height: auto;">
   </div>
 </div>
 
-- **6DOF TM Model and Control Simulation**
-
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;margin-left: 30px;">
-    <div class="badge">6DOF TM Model</div>
-    <img src='/images/TM.png' alt="sym" style="width: 100%; height: auto;">
+  <div style="flex: 1; margin-right: 0px;margin-left: 0px;">
+    <img src='/images/控制电压.png' alt="sym" style="width: 100%; height: auto;">
   </div>
-  <div style="flex: 1; margin-right: 10px;">
-    <div class="badge">Displacement</div>
-    <img src='/images/位移曲线.png' alt="sym" style="width: 100%; height: auto;">
+  <div style="flex: 1; margin-right: 0px;margin-left: -33px;">
+    <img src='/images/速度.png' alt="sym" style="width: 100%; height: auto;">
   </div>
-  <div style="flex: 1;">
-    <div class="badge">Attitude</div>
-    <img src='/images/姿态角度曲线.png' alt="sym" style="width: 100%; height: auto;">
+  <div style="flex: 1;margin-right: 0px;margin-left: -33px;">
+    <img src='/images/角速度.png' alt="sym" style="width: 100%; height: auto;">
   </div>
 </div>
 
@@ -275,7 +283,10 @@ My curent research interests include cooperative localization 8t guidance 8 cont
 
 <p>2022.11 - 2023.5: YuAng Ke (master student, SYSU), MingShuai Wu (master student, SYSU), Ke Xu (master student, PKU)</p>
 
+
 <span class='anchor' id='usefulLinks'></span>
+
 #  Useful Links
 
 [https://ieeecss.org/conferences/all](https://ieeecss.org/conferences/all)
+
