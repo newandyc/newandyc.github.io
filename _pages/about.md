@@ -53,7 +53,7 @@ ___
 </div>
 
 ___
-- **6DOF TM Control for TianQin**
+- **6DOF TM Control for Gravitational-Wave Detection**
 
 <div class="paper-box-image" style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 0px;margin-left: 0px;">
@@ -84,13 +84,13 @@ ___
 # 📝 Publications
 __Journal Articles__
 
-[J29] F. Zhang, C.L. Jin*, W.G. Xia, X.M. Sun, H. Bai. Cooperative pointing control of coplanar multi-robot systems via distributed target estimation. Automatica, _submitted_, 2024
+[J29] F. Zhang, C.L. Jin*, W.G. Xia, X.M. Sun, H. Bai. Cooperative pointing control of coplanar multi-robot systems via distributed target estimation. Automatica, _under review_, 2024
 
-[J28] H.X. Hu, G.H. Wen*, Y. Chen, F. Zhang, T.W. Huang. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _submitted_, 2023
+[J28] H.X. Hu, G.H. Wen*, Y. Chen, F. Zhang, T.W. Huang. Social power evolution analysis for Friedkin-Johnsen model with oblivious individuals. IEEE Transactions on Cybernetics, _under review_, 2023
 
 [J27] S.Y. Meng, F.W. Meng*, F. Zhang, Q. Li, Y. Zhang, A. Zemouche. Observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications. Automatica _regular paper_, _online_, 2023
 
-[J26] P. Ramazi*, F. Zhang, M. Cao. Cooperative concurrent targeting for planar arrays of point sources. Automatica, online, 2023
+[J26] P. Ramazi*, F. Zhang, M. Cao. Cooperative concurrent targeting for planar arrays of point sources. Automatica, _online_, 2023
 
 [J25] F. Zhang, Y.L. Li*, W.G. Xia, T. Liu, W.W. Yu. Synchronization of Lur'e networks via heterogeneous unknown interconnections. IEEE Transactions on Circuits and Systems II: Express Briefs, 71(2):807-811, February 2024
 
