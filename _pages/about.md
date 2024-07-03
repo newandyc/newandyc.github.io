@@ -28,18 +28,14 @@ My curent research interests include cooperative localization 8t guidance 8 cont
 - **Cooperative pointing control**
   - Cooperative pointing control of coplanar multi-robot systems via distributed target estimation
 
-<div class='paper-box'>
-<div class="paper-box-image" style="display: flex; width: 600px; height:auto; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 15px;  margin-left: 35px;">
-    <div class="badge">Target Location</div>
-    <img src='/images/AGIFp3.gif' alt="sym" style="width: 100%; height: auto;">
+<div class="paper-box-image" style="display: flex; width:100%; height:auto; justify-content: space-between;">
+  <div style="flex: 1; margin-left: -45px;">
+      <img src='/images/circle_200.gif' alt="sym" style="width: 100%; height: auto;">
+   </div>
+  <div style="flex: 1; margin-left: -80px;">
+      <img src='/images/circle_slices_200.png' alt="sym" style="width: 90%; height: 100%;">
+    </div>
   </div>
-  <div style="flex: 1; margin-right: 10px;">
-    <div class="badge">Cooperative Pointing</div>
-    <img src='/images/AGIFp7.gif' alt="sym" style="width: 100%; height: auto;">
-  </div>
-</div>
-</div>
 
 - **Enclosing Control for Multiagent Systems**
   - Distributed collaborative encirclement of unicycles
